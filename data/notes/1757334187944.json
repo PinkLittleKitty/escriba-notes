@@ -1,0 +1,10 @@
+{
+  "id": "1757334187944",
+  "title": "8/9",
+  "content": "<div>Empanadas Gimenez:</div><div><ul><li>Agregar Validación.</li><ul><li>Precondición.</li><li>Cumplir responsabilidad -&gt; Volar n km&nbsp;<mark>si tengo suficiente energía</mark></li><li>Consistencia del estado interno -&gt; evitar que energía &lt; 0</li></ul></ul><div>- Los <u>fondos de gimenez son suficientes</u> para pagar el sueldo de: Empleado (Galván o baigorria)</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fondos &gt;= empleado.sueldo()</div><div><br></div><div><div class=\"ace-editor-placeholder\" data-code=\"object gimenez {\n    var fondos = 0\n    method validarPagoSueldoPara(empleado) {\n        if (fondos &lt; empleado.sueldo()) {\n            self.error(&quot;No se puede pagar&quot; + empleado.sueldo())\n        }\n    }\n\n    method PagarSueldoA(empleado) {\n        self.ValidarPagoSueldoPara(empleado)\n        fondos -= empleado.sueldo()\n        empleado.depositarSueldo()\n    }\n}\" data-language=\"javascript\">[Code Editor: javascript]</div></div></div><div><ul><li>Agregar 2 casos de prueba</li></ul></div><div><div class=\"ace-editor-placeholder\" data-code=\"assert.throwsException(gimenez.pagarSueldoA(galvan))\nassert.notThrowsException(gimenez.pagarSueldoA(galvan))\" data-language=\"javascript\">[Code Editor: javascript]</div></div>",
+  "type": "lecture",
+  "subjectId": "1755518439049",
+  "favorite": false,
+  "createdAt": "2025-09-08T12:23:07.944Z",
+  "updatedAt": "2025-09-08T18:21:51.048Z"
+}
