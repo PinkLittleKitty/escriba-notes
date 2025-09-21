@@ -1,0 +1,10 @@
+{
+  "id": "1758112323612",
+  "title": "17/9",
+  "content": "<div>Bloques:</div><div><div class=\"ace-editor-placeholder\" data-code=\"object rolando {\n    const miBloque = {artefacto =&gt; artefacto.poder()}\n    const miPoder = mibloque.apply(espada)\n    const artefactos\n    \n    method poderArtefactos() {\n        return artefactos.sum({miBloque})\n    }\n    method hayArrtefactoQueSupere(valor)\n    {\n        return artefactos.any({art =&gt; art.poder() &gt; valor})\n    }\n}\n\n\" data-language=\"javascript\">[Code Editor: javascript]</div></div><div>Rolando -&gt; artefactos -&gt; espada</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&gt; libro</div>",
+  "type": "lecture",
+  "subjectId": "1755518439049",
+  "favorite": false,
+  "createdAt": "2025-09-17T12:32:03.612Z",
+  "updatedAt": "2025-09-17T15:21:34.295Z"
+}
