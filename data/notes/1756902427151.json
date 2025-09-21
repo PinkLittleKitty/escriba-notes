@@ -1,0 +1,10 @@
+{
+  "id": "1756902427151",
+  "title": "3/9",
+  "content": "<div><mark>property</mark> se puede usar como alternativa al setter y el getter, es lo mismo escribir:</div><div><pre><code>var property banana</code></pre>Que escribir</div><div><pre><code>var banana<br><br>method banana(_banana) {<br>    banana = _banana<br>}<br><br>method banana() {<br>    return banana<br>}</code></pre></div>",
+  "type": "lecture",
+  "subjectId": "1755518439049",
+  "favorite": false,
+  "createdAt": "2025-09-03T12:27:07.151Z",
+  "updatedAt": "2025-09-08T13:13:11.776Z"
+}
