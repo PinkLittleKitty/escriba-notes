@@ -69,5 +69,47 @@
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": true
+  },
+  {
+    "id": "1756767821330",
+    "name": "czxczxczx",
+    "code": "",
+    "professor": "",
+    "color": "#3b82f6",
+    "notes": [
+      {
+        "id": "1756769641824",
+        "title": "Judíos: Un ensayo comunista",
+        "content": "",
+        "type": "lecture",
+        "subjectId": "1756767821330",
+        "favorite": false,
+        "createdAt": "2025-09-01T23:34:01.824Z",
+        "updatedAt": "2025-09-01T23:34:11.641Z"
+      }
+    ],
+    "createdAt": "2025-09-01T23:03:41.330Z",
+    "expanded": false
+  },
+  {
+    "id": "1756762161572",
+    "name": "dsadsa czcx",
+    "code": "",
+    "professor": "",
+    "color": "#f59e0b",
+    "notes": [
+      {
+        "id": "1756762162746",
+        "title": "FLACO NO DA",
+        "content": "dsadsa da s&nbsp; asd aacxzz cx zcz cx",
+        "type": "lecture",
+        "subjectId": "1756762161572",
+        "favorite": false,
+        "createdAt": "2025-09-01T21:29:22.746Z",
+        "updatedAt": "2025-09-01T23:34:23.030Z"
+      }
+    ],
+    "createdAt": "2025-09-01T21:29:21.572Z",
+    "expanded": false
   }
 ]
