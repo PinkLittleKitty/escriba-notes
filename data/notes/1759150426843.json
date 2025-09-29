@@ -1,0 +1,10 @@
+{
+  "id": "1759150426843",
+  "title": "Apunte sin título",
+  "content": "<div>Tutorial 3</div><div><br></div><div>-&gt; ganar al llegar al nido (habiendo comido ambas comidas)</div><div>-&gt; perder al tocar a silvestre/al quedarse sin energía</div><div>-&gt; comer comidas (en función de la posición)</div><div>-&gt; gravedad -&gt; cada 800ms baja pepita -&gt; sin perder energía, y estando dentro de los límites.</div><div>-&gt; muros/obstáculos -&gt; no se pueden atravesar</div><div><br></div><div>\n<div class=\"ace-editor-placeholder\" data-code=\"game.OnCollideDo(objeto, bloque)\" data-language=\"javascript\">[Code Editor: javascript]</div>\n<br></div>",
+  "type": "lecture",
+  "subjectId": "1755518439049",
+  "favorite": false,
+  "createdAt": "2025-09-29T12:53:46.843Z",
+  "updatedAt": "2025-09-29T12:56:12.975Z"
+}
