@@ -7,6 +7,16 @@
     "color": "#8b5cf6",
     "notes": [
       {
+        "id": "1760969598903",
+        "title": "Apunte sin título",
+        "content": "",
+        "type": "lecture",
+        "subjectId": "1755518439049",
+        "favorite": false,
+        "createdAt": "2025-10-20T14:13:18.903Z",
+        "updatedAt": "2025-10-20T14:13:18.903Z"
+      },
+      {
         "id": "1759150426843",
         "title": "29/9",
         "content": "<div>Tutorial 3</div><div><br></div><div>-&gt; ganar al llegar al nido (habiendo comido ambas comidas)</div><div>-&gt; perder al tocar a silvestre/al quedarse sin energía</div><div>-&gt; comer comidas (en función de la posición)</div><div>-&gt; gravedad -&gt; cada 800ms baja pepita -&gt; sin perder energía, y estando dentro de los límites.</div><div>-&gt; muros/obstáculos -&gt; no se pueden atravesar</div><div>\n<code class=\"inline-code\">game.OnCollideDo(objeto, bloque)</code><br>\n<br></div>",
