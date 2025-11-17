@@ -89,26 +89,5 @@
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": true
-  },
-  {
-    "id": "1759792796190",
-    "name": "FCE",
-    "code": "fce",
-    "professor": "Andrea Arias",
-    "color": "#f59e0b",
-    "notes": [
-      {
-        "id": "1759792797886",
-        "title": "Apunte sin título",
-        "content": "rEDING ",
-        "type": "lecture",
-        "subjectId": "1759792796190",
-        "favorite": false,
-        "createdAt": "2025-10-06T23:19:57.886Z",
-        "updatedAt": "2025-10-06T23:20:11.864Z"
-      }
-    ],
-    "createdAt": "2025-10-06T23:19:56.190Z",
-    "expanded": true
   }
 ]
