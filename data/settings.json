@@ -1,7 +1,7 @@
 {
-  "theme": "dark",
+  "theme": "unq",
   "fontSize": "16px",
-  "fontFamily": "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+  "fontFamily": "Inter",
   "autoSave": true,
   "expandSubjects": true,
   "showWelcome": true,
