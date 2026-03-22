@@ -1,5 +1,25 @@
 [
   {
+    "id": "1774150217237",
+    "name": "Sistemas Operativos",
+    "code": "SO",
+    "professor": "",
+    "color": "#84cc16",
+    "notes": [],
+    "createdAt": "2026-03-22T03:30:17.237Z",
+    "expanded": true
+  },
+  {
+    "id": "1774150180716",
+    "name": "Bases de Datos",
+    "code": "BD",
+    "professor": "",
+    "color": "#ef4444",
+    "notes": [],
+    "createdAt": "2026-03-22T03:29:40.716Z",
+    "expanded": false
+  },
+  {
     "id": "1755518439049",
     "name": "Programación Con Objetos 1",
     "code": "PO1",
@@ -88,16 +108,6 @@
       }
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
-    "expanded": true
-  },
-  {
-    "id": "1774150180716",
-    "name": "Bases de Datos",
-    "code": "BD",
-    "professor": "",
-    "color": "#ef4444",
-    "notes": [],
-    "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": false
   }
 ]
