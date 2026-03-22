@@ -89,5 +89,15 @@
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": true
+  },
+  {
+    "id": "1774150180716",
+    "name": "Bases de Datos",
+    "code": "BD",
+    "professor": "",
+    "color": "#ef4444",
+    "notes": [],
+    "createdAt": "2026-03-22T03:29:40.716Z",
+    "expanded": false
   }
 ]
