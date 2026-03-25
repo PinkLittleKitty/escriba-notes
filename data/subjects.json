@@ -5,10 +5,20 @@
     "code": "SO",
     "professor": "",
     "color": "#84cc16",
-    "notes": [],
+    "notes": [
+      {
+        "id": "id-1774475790849-6htp1qwu2",
+        "title": "25/3",
+        "content": "",
+        "createdAt": "2026-03-25T21:56:30.849Z",
+        "updatedAt": "2026-03-25T21:56:39.285Z",
+        "favorite": false,
+        "type": "lecture"
+      }
+    ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": false,
-    "lastModified": "2026-03-24T06:38:33.651Z"
+    "lastModified": "2026-03-25T21:56:39.285Z"
   },
   {
     "id": "1774150180716",
