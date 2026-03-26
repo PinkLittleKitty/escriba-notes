@@ -3,8 +3,9 @@
   "title": "25/3",
   "content": "<div>Hardware: -&gt; Tiene un reloj/clock que ante cierta estimulación puede emitir un pulso con MUCHA regularidad, llamados ticks, que se \"envían\" a la CPU.</div><div><ul><li>CPU - Memoria: El sistema operativo utiliza estos elementos para que se sienta natural para el usuario.</li><li>I/O -&gt; lleva a periféricos, ejemplo, una impresora. (También administrados por el S.O.)</li></ul><div>El Sistema operativo es capaz de computar múltiples tareas a la vez.</div><div><br></div><div>1 Hz = 1 ciclo por segundo -&gt; 1 instrucción por segundo.</div><div><br></div><div>1Ghz -&gt; 1000 Mhz -&gt; 1000000 Khz -&gt; 1000000000 Hz &lt;-(Está en base 10, todo mal.)</div><div><br></div><div>Las instrucciones son como en Orga, assembly.</div><div><br></div><div>Mandarle el tp 0 a Pablo?&nbsp; Creo?</div><div><br></div><div>La diferencia entre programa y proceso es que el proceso es aquel que se ejecuta en memoria, mientras que el programa es el que \"Ejecuta\" ese proceso, es decir, el programa en ejecución es un proceso.</div><div>Un programa es una serie de instrucciones que pueden llegar a ser ejecutadas por un sistema, son las instrucciones en abstracto.</div><div><br></div><div>PC (Program counter) -1 Significa que la CPU está en idle.</div><div><br></div><div>Instrucciones que entiende el hardware: CPU, IO, EXIT</div><div><br></div><div>Tenemos dos tipos de interrupciones: IO y EXIT</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div></div>",
   "createdAt": "2026-03-25T21:56:30.849Z",
-  "updatedAt": "2026-03-26T04:53:37.631Z",
+  "updatedAt": "2026-03-26T05:01:03.346Z",
   "favorite": false,
   "type": "lecture",
+  "mathMode": false,
   "subjectId": "1774150217237"
 }
