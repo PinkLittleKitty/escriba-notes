@@ -1,0 +1,10 @@
+{
+  "id": "1755692674528",
+  "title": "20/8 - Segunda Clase",
+  "content": "<div>Los tipos de wollok son implícito, el objeto que interactúa con ellos asume qué tipo son sólo enviando el mensaje.</div><div>Hay mensajes cuyos tipos son explícitos, se puede obligar a usar un tipo específico.</div><div><br></div><div>Tipo:&nbsp;</div><div><ul><li>Conjunto de <a href=\"#\" class=\"internal-link\" data-note-id=\"1755518442086\" title=\"Ir a: 18/8 - Primera Clase\">mensajes</a> que entiende una idea.</li></ul><div>Git:</div><div><ul><li>Versionado</li><li>Backup</li><li>Trabajo en equipo</li><li>Un commit es una lista de cambios, no los archivos en sí.</li></ul></div></div>",
+  "type": "lecture",
+  "subjectId": "1755518439049",
+  "favorite": false,
+  "createdAt": "2025-08-20T12:24:34.528Z",
+  "updatedAt": "2025-09-08T13:13:44.389Z"
+}
