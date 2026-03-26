@@ -1,0 +1,9 @@
+{
+  "theme": "unq",
+  "fontSize": 17,
+  "fontFamily": "Inter",
+  "autoSave": true,
+  "expandSubjects": true,
+  "showWelcome": true,
+  "autoSync": true
+}
