@@ -11,7 +11,7 @@
         "title": "25/3",
         "content": "<div>Hardware: -&gt; Tiene un reloj/clock que ante cierta estimulación puede emitir un pulso con MUCHA regularidad, llamados ticks, que se \"envían\" a la CPU.</div><div><ul><li>CPU - Memoria: El sistema operativo utiliza estos elementos para que se sienta natural para el usuario.</li><li>I/O -&gt; lleva a periféricos, ejemplo, una impresora. (También administrados por el S.O.)</li></ul><div>El Sistema operativo es capaz de computar múltiples tareas a la vez.</div><div><br></div><div>1 Hz = 1 ciclo por segundo -&gt; 1 instrucción por segundo.</div><div><br></div><div>1Ghz -&gt; 1000 Mhz -&gt; 1000000 Khz -&gt; 1000000000 Hz &lt;-(Está en base 10, todo mal.)</div><div><br></div><div>Las instrucciones son como en Orga, assembly.</div><div><br></div><div>Mandarle el tp 0 a Pablo?&nbsp; Creo?<br><br></div><div>La diferencia entre programa y proceso es que el proceso es aquel que se ejecuta en memoria, mientras que el programa es el que \"Ejecuta\" ese proceso, es decir, el programa en ejecución es un proceso.</div><div>Un programa es una serie de instrucciones que pueden llegar a ser ejecutadas por un sistema, son las instrucciones en abstracto.</div><div><br></div><div>PC (Program counter) -1 Significa que la CPU está en idle.</div><div><br></div><div>Instrucciones que entiende el hardware: CPU, IO, EXIT</div><div><br></div><div>Tenemos dos tipos de interrupciones: IO y EXIT</div></div>",
         "createdAt": "2026-03-25T21:56:30.849Z",
-        "updatedAt": "2026-03-28T04:39:06.679Z",
+        "updatedAt": "2026-03-27T22:38:59.543Z",
         "favorite": false,
         "type": "lecture",
         "mathMode": false
@@ -19,8 +19,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-03-28T04:39:06.679Z",
-    "archived": false
+    "lastModified": "2026-03-27T22:38:59.543Z"
   },
   {
     "id": "1774150180716",
@@ -31,8 +30,7 @@
     "notes": [],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": false,
-    "lastModified": "2026-03-28T04:02:34.593Z",
-    "archived": false
+    "lastModified": "2026-03-26T05:30:08.900Z"
   },
   {
     "id": "1755518439049",
@@ -102,6 +100,16 @@
         "updatedAt": "2025-09-01T23:48:35.106Z"
       },
       {
+        "id": "id-1774499837953-sohbj6jkd",
+        "title": "20/8 - Segunda Clase",
+        "content": "<div>Los tipos de wollok son implícito, el objeto que interactúa con ellos asume qué tipo son sólo enviando el mensaje.</div><div>Hay mensajes cuyos tipos son explícitos, se puede obligar a usar un tipo específico.</div><div><br></div><div>Tipo:&nbsp;</div><div><ul><li>Conjunto de <a href=\"#\" class=\"internal-link\" data-note-id=\"id-1774499837953-z91d2ubwp\" title=\"Ir a: 18/8 - Primera Clase\">mensajes</a> que entiende una idea.</li></ul><div>Git:</div><div><ul><li>Versionado</li><li>Backup</li><li>Trabajo en equipo</li><li>Un commit es una lista de cambios, no los archivos en sí.</li></ul></div></div>",
+        "type": "lecture",
+        "subjectId": "1755518439049",
+        "favorite": false,
+        "createdAt": "2025-08-20T12:24:34.528Z",
+        "updatedAt": "2025-09-08T13:13:44.389Z"
+      },
+      {
         "id": "id-1774499837953-z91d2ubwp",
         "title": "18/8 - Primera Clase",
         "content": "Cronograma de la materia con el material:&nbsp;<div>https://docs.google.com/spreadsheets/d/1fr6VRaUs-7Ogqcwlx4NsGyvm3r3W9-JTxgA-bTp1-WU/edit?gid=746423829</div><div><br></div><div><div>Existe el paradigma orientado a objetos que usa el objeto como abstracción.</div></div><div><br></div><div>Paradigmas de Programación:</div><div><ul><li>Conjunto de conceptos (Abstracciones)</li><li>Resolver un problema computable</li></ul></div><div><br></div><div>Objeto -&gt; Tiene atributos</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Mensajes (Comunicación entre objetos)</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Comportamiento</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Conviven en el <u>ambiente</u></div><div><br></div><div>Tipos de objetos:&nbsp;<br></div><div><ul><li>Nativos (Definidos en el lenguaje) -&gt; Imputables</li><li>Definidos por quien programa -&gt; Estado interno (Atributos) [Conjunto de referencias]</li></ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&gt; Comportamiento - Interfaz (Conjunto de <b>mensajes</b> que entiende) [Los&nbsp;<b>Mensajes&nbsp;</b>pueden tener <u>parámetros</u>.]</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Efecto (Cambios en el estado)&nbsp; &nbsp;&lt;-|-&gt; Consulta/Pregunta (Retorna una referencia)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<u>-&gt; Pasaje de referencias</u></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [(Setters)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Getters)] -&gt; Este conjunto se llama Accesors</div><div><br></div><div>Un comportamiento se define a través de métodos.</div><div><br></div><div>Programa: Conjunto de objetos interactuando entre sí.</div><div><br></div><div>Sintaxis Wollok: (Archivo)</div><div><br></div><div>&gt; persona.nacer(\"Mara\")</div><div>&gt; persona.cumpleaños()</div><div>&gt; persona.presentate() -&gt; Output: \"Mara\"</div>",
@@ -120,16 +128,6 @@
         "favorite": false,
         "createdAt": "2025-10-20T14:13:18.903Z",
         "updatedAt": "2026-03-24T07:07:29.486Z"
-      },
-      {
-        "id": "id-1774499837953-sohbj6jkd",
-        "title": "20/8 - Segunda Clase",
-        "content": "<div>Los tipos de wollok son implícito, el objeto que interactúa con ellos asume qué tipo son sólo enviando el mensaje.</div><div>Hay mensajes cuyos tipos son explícitos, se puede obligar a usar un tipo específico.</div><div><br></div><div>Tipo:&nbsp;</div><div><ul><li>Conjunto de <a href=\"#\" class=\"internal-link\" data-note-id=\"id-1774499837953-z91d2ubwp\" title=\"Ir a: 18/8 - Primera Clase\">mensajes</a> que entiende una idea.</li></ul><div>Git:</div><div><ul><li>Versionado</li><li>Backup</li><li>Trabajo en equipo</li><li>Un commit es una lista de cambios, no los archivos en sí.</li></ul></div></div>",
-        "type": "lecture",
-        "subjectId": "1755518439049",
-        "favorite": false,
-        "createdAt": "2025-08-20T12:24:34.528Z",
-        "updatedAt": "2025-09-08T13:13:44.389Z"
       },
       {
         "id": "id-1774645849198-gmddug41h",
@@ -180,6 +178,16 @@
         "favorite": false,
         "createdAt": "2025-09-01T23:47:33.353Z",
         "updatedAt": "2025-09-01T23:48:35.106Z"
+      },
+      {
+        "id": "id-1774645849198-k0ma72jc1",
+        "title": "20/8 - Segunda Clase",
+        "content": "<div>Los tipos de wollok son implícito, el objeto que interactúa con ellos asume qué tipo son sólo enviando el mensaje.</div><div>Hay mensajes cuyos tipos son explícitos, se puede obligar a usar un tipo específico.</div><div><br></div><div>Tipo:&nbsp;</div><div><ul><li>Conjunto de <a href=\"#\" class=\"internal-link\" data-note-id=\"id-1774645849198-vz6o52xzk\" title=\"Ir a: 18/8 - Primera Clase\">mensajes</a> que entiende una idea.</li></ul><div>Git:</div><div><ul><li>Versionado</li><li>Backup</li><li>Trabajo en equipo</li><li>Un commit es una lista de cambios, no los archivos en sí.</li></ul></div></div>",
+        "type": "lecture",
+        "subjectId": "1755518439049",
+        "favorite": false,
+        "createdAt": "2025-08-20T12:24:34.528Z",
+        "updatedAt": "2025-09-08T13:13:44.389Z"
       },
       {
         "id": "id-1774645849198-vz6o52xzk",
@@ -252,6 +260,16 @@
         "updatedAt": "2025-09-01T23:48:35.106Z"
       },
       {
+        "id": "id-1774650964956-g837urbsb",
+        "title": "20/8 - Segunda Clase",
+        "content": "<div>Los tipos de wollok son implícito, el objeto que interactúa con ellos asume qué tipo son sólo enviando el mensaje.</div><div>Hay mensajes cuyos tipos son explícitos, se puede obligar a usar un tipo específico.</div><div><br></div><div>Tipo:&nbsp;</div><div><ul><li>Conjunto de <a href=\"#\" class=\"internal-link\" data-note-id=\"id-1774650964956-owv78d1km\" title=\"Ir a: 18/8 - Primera Clase\">mensajes</a> que entiende una idea.</li></ul><div>Git:</div><div><ul><li>Versionado</li><li>Backup</li><li>Trabajo en equipo</li><li>Un commit es una lista de cambios, no los archivos en sí.</li></ul></div></div>",
+        "type": "lecture",
+        "subjectId": "1755518439049",
+        "favorite": false,
+        "createdAt": "2025-08-20T12:24:34.528Z",
+        "updatedAt": "2025-09-08T13:13:44.389Z"
+      },
+      {
         "id": "id-1774650964956-owv78d1km",
         "title": "18/8 - Primera Clase",
         "content": "Cronograma de la materia con el material:&nbsp;<div>https://docs.google.com/spreadsheets/d/1fr6VRaUs-7Ogqcwlx4NsGyvm3r3W9-JTxgA-bTp1-WU/edit?gid=746423829</div><div><br></div><div><div>Existe el paradigma orientado a objetos que usa el objeto como abstracción.</div></div><div><br></div><div>Paradigmas de Programación:</div><div><ul><li>Conjunto de conceptos (Abstracciones)</li><li>Resolver un problema computable</li></ul></div><div><br></div><div>Objeto -&gt; Tiene atributos</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Mensajes (Comunicación entre objetos)</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Comportamiento</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -&gt; Conviven en el <u>ambiente</u></div><div><br></div><div>Tipos de objetos:&nbsp;<br></div><div><ul><li>Nativos (Definidos en el lenguaje) -&gt; Imputables</li><li>Definidos por quien programa -&gt; Estado interno (Atributos) [Conjunto de referencias]</li></ul>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;-&gt; Comportamiento - Interfaz (Conjunto de <b>mensajes</b> que entiende) [Los&nbsp;<b>Mensajes&nbsp;</b>pueden tener <u>parámetros</u>.]</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Efecto (Cambios en el estado)&nbsp; &nbsp;&lt;-|-&gt; Consulta/Pregunta (Retorna una referencia)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<u>-&gt; Pasaje de referencias</u></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [(Setters)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Getters)] -&gt; Este conjunto se llama Accesors</div><div><br></div><div>Un comportamiento se define a través de métodos.</div><div><br></div><div>Programa: Conjunto de objetos interactuando entre sí.</div><div><br></div><div>Sintaxis Wollok: (Archivo)</div><div><br></div><div>&gt; persona.nacer(\"Mara\")</div><div>&gt; persona.cumpleaños()</div><div>&gt; persona.presentate() -&gt; Output: \"Mara\"</div>",
@@ -264,7 +282,6 @@
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": false,
-    "lastModified": "2026-03-28T04:09:45.172Z",
-    "archived": true
+    "lastModified": "2026-03-27T23:22:25.864Z"
   }
 ]
