@@ -18,8 +18,9 @@
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": true,
-    "lastModified": "2026-03-28T03:32:42.640Z"
+    "expanded": false,
+    "lastModified": "2026-03-28T03:38:49.502Z",
+    "archived": false
   },
   {
     "id": "1774150180716",
@@ -30,7 +31,7 @@
     "notes": [],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": false,
-    "lastModified": "2026-03-28T03:33:29.469Z",
+    "lastModified": "2026-03-28T03:38:35.811Z",
     "archived": false
   },
   {
