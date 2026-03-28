@@ -18,8 +18,8 @@
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": true,
-    "lastModified": "2026-03-28T01:51:15.541Z"
+    "expanded": false,
+    "lastModified": "2026-03-28T01:53:09.545Z"
   },
   {
     "id": "1774150180716",
@@ -30,7 +30,7 @@
     "notes": [],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": false,
-    "lastModified": "2026-03-28T01:43:15.953Z"
+    "lastModified": "2026-03-28T01:52:56.984Z"
   },
   {
     "id": "1755518439049",
@@ -282,6 +282,6 @@
     ],
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": false,
-    "lastModified": "2026-03-28T01:44:15.000Z"
+    "lastModified": "2026-03-28T01:53:08.435Z"
   }
 ]
