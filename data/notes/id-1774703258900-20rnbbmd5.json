@@ -1,9 +1,9 @@
 {
   "id": "id-1774703258900-20rnbbmd5",
   "title": "28/3",
-  "content": "Evaluaciones:<div><ul><li><u>1er Parcial:</u> Modelado y Algebra relacional</li><li><u>2do Parcial:</u> SQL y Normalización.</li><li><u>Integrador:</u> Todos los temas aprobados &gt;=4</li></ul><div><br></div><div></div><h2>Modelo Entidad Relación:</h2><div>Toda entidad tiene una \"clave\", como, por ejemplo, el DNI.</div><h2>Modelo Relacional:</h2></div><div>Modelo para representar bases de datos mediante relaciones.</div><h3>Esquema de la relación:&nbsp;</h3><div><ul><li>Nombre de la relación + su conjunto de atributos</li><li><code class=\"inline-code\">Materia&lt;código, carrera, nombre, docente_a_cargo&gt;</code></li><li><br></li><li>Grado o aridad de la relación:</li></ul></div><div></div><div></div>",
+  "content": "Evaluaciones:<div><ul><li><u>1er Parcial:</u> Modelado y Algebra relacional</li><li><u>2do Parcial:</u> SQL y Normalización.</li><li><u>Integrador:</u> Todos los temas aprobados &gt;=4</li></ul><div><br></div><div></div><h2>Modelo Entidad Relación:</h2><div>Toda entidad tiene una \"clave\", como, por ejemplo, el DNI.</div><h2>Modelo Relacional:</h2></div><div>Modelo para representar bases de datos mediante relaciones.</div><h3>Esquema de la relación:&nbsp;</h3><div><ul><li>Nombre de la relación + su conjunto de atributos</li><li><code class=\"inline-code\">Materia&lt;código, carrera, nombre, docente_a_cargo&gt;</code></li></ul><h3>Grado o aridad de la relación:</h3></div><div><ul><li>Es la cantidad de atributos de la relación.</li><li>La relación Materia tiene grado 4</li></ul><div><br></div></div><div>Relación: ESTUDIANTE</div><div>Legajo: 84749 &lt;- <u>Clave</u>&nbsp;</div><div>Nombre y Apellido: Sofía Morales</div><div>Ciudad: CABA</div><div>Materia Cursando: (Objetos 1, Bases de Datos)&nbsp;</div><div>Esquema: Estudiante&lt;legajo, nombre_y_apellido, ciudad, {materia_cursando}&gt;</div><div></div><div></div><div></div>",
   "createdAt": "2026-03-28T13:07:38.900Z",
-  "updatedAt": "2026-03-28T14:18:24.119Z",
+  "updatedAt": "2026-03-28T14:23:30.611Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
