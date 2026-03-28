@@ -7,5 +7,6 @@
   "favorite": false,
   "type": "lecture",
   "mathMode": false,
+  "isActive": false,
   "subjectId": "1774150217237"
 }
