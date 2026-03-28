@@ -31,9 +31,9 @@
       {
         "id": "id-1774703258900-20rnbbmd5",
         "title": "28/3",
-        "content": "",
+        "content": "Evaluaciones:<div><ul><li><u>1er Parcial:</u> Modelado y Algebra relacional</li><li><u>2do Parcial:</u> SQL y Normalización.</li><li><u>Integrador:</u> Todos los temas aprobados &gt;=4</li></ul></div>",
         "createdAt": "2026-03-28T13:07:38.900Z",
-        "updatedAt": "2026-03-28T13:17:38.439Z",
+        "updatedAt": "2026-03-28T13:26:07.868Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -41,7 +41,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-03-28T13:17:38.439Z"
+    "lastModified": "2026-03-28T13:26:07.868Z"
   },
   {
     "id": "1755518439049",
