@@ -3,9 +3,9 @@
   "title": "28/3 - Práctica",
   "content": "",
   "createdAt": "2026-03-28T14:35:40.575Z",
-  "updatedAt": "2026-03-28T14:38:49.640Z",
+  "updatedAt": "2026-03-28T14:43:55.918Z",
   "favorite": false,
   "type": "lecture",
-  "isActive": false,
+  "isActive": true,
   "subjectId": "1774150180716"
 }
