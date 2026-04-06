@@ -11,7 +11,7 @@
         "title": "25/3",
         "content": "<div>Hardware: -&gt; Tiene un reloj/clock que ante cierta estimulación puede emitir un pulso con MUCHA regularidad, llamados ticks, que se \"envían\" a la CPU.</div><div><ul><li>CPU - Memoria: El sistema operativo utiliza estos elementos para que se sienta natural para el usuario.</li><li>I/O -&gt; lleva a periféricos, ejemplo, una impresora. (También administrados por el S.O.)</li></ul><div>El Sistema operativo es capaz de computar múltiples tareas a la vez.</div><div><br></div><div>1 Hz = 1 ciclo por segundo -&gt; 1 instrucción por segundo.</div><div><br></div><div>1Ghz -&gt; 1000 Mhz -&gt; 1000000 Khz -&gt; 1000000000 Hz &lt;-(Está en base 10, todo mal.)</div><div><br></div><div>Las instrucciones son como en Orga, assembly.</div><div><br></div><div>Mandarle el tp 0 a Pablo?&nbsp; Creo?<br><br></div><div>La diferencia entre programa y proceso es que el proceso es aquel que se ejecuta en memoria, mientras que el programa es el que \"Ejecuta\" ese proceso, es decir, el programa en ejecución es un proceso.</div><div>Un programa es una serie de instrucciones que pueden llegar a ser ejecutadas por un sistema, son las instrucciones en abstracto.</div><div><br></div><div>PC (Program counter) -1 Significa que la CPU está en idle.</div><div><br></div><div>Instrucciones que entiende el hardware: CPU, IO, EXIT</div><div><br></div><div>Tenemos dos tipos de interrupciones: IO y EXIT</div></div>",
         "createdAt": "2026-03-25T21:56:30.849Z",
-        "updatedAt": "2026-03-28T04:39:06.679Z",
+        "updatedAt": "2026-03-27T22:38:59.543Z",
         "favorite": false,
         "type": "lecture",
         "mathMode": false,
@@ -19,10 +19,9 @@
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": true,
-    "lastModified": "2026-03-29T19:02:53.867Z",
-    "archived": false,
-    "schedule": []
+    "expanded": false,
+    "lastModified": "2026-03-28T13:09:57.855Z",
+    "archived": false
   },
   {
     "id": "1774150180716",
@@ -49,14 +48,13 @@
         "updatedAt": "2026-03-28T15:58:15.473Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       }
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
-    "expanded": true,
-    "lastModified": "2026-03-29T19:17:30.714Z",
-    "archived": false,
-    "schedule": []
+    "expanded": false,
+    "lastModified": "2026-04-06T18:57:35.242Z",
+    "archived": false
   },
   {
     "id": "1755518439049",
@@ -312,5 +310,28 @@
     "expanded": false,
     "lastModified": "2026-03-28T13:07:32.771Z",
     "archived": true
+  },
+  {
+    "id": "id-1775501873166-h0ivu3hx9",
+    "name": "Taller de Trabajo",
+    "code": "TTU",
+    "professor": "",
+    "color": "#06b6d4",
+    "notes": [
+      {
+        "id": "id-1775501875221-neot39dm6",
+        "title": "6/4",
+        "content": "<ul><li>Desde 1885, ley de avellaneda, las universidades son autónomas</li><li>La primera argentina universidad creada fué en el periodo colonial, en 1612 (Era española, junto con bocha más, pero al descolonizar queda en territorio argentino.)</li><li>Las universidades menores tenían 2 disciplinas, las mayores 4.</li><li><strike>El profe habla muy monónoto y me pierdo.</strike></li><li>La disciplina por exelencia mayor era la teología.</li><li>En 1821 se crea la universidad de buenos aires, adoptando el modelo de la de parís.</li><li>En 1905 se crea la universidad de la plata, adoptando el modelo de la alemana.</li></ul>",
+        "createdAt": "2026-04-06T18:57:55.221Z",
+        "updatedAt": "2026-04-06T19:48:49.873Z",
+        "favorite": false,
+        "type": "lecture",
+        "isActive": true
+      }
+    ],
+    "archived": false,
+    "expanded": true,
+    "createdAt": "2026-04-06T18:57:53.166Z",
+    "lastModified": "2026-04-06T19:48:49.873Z"
   }
 ]
