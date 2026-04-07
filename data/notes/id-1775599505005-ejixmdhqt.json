@@ -1,0 +1,12 @@
+{
+  "id": "id-1775599505005-ejixmdhqt",
+  "title": "7/4",
+  "content": "<h1>Álgebra relacional</h1><div>El álgebra relacional sirve para responder preguntas con datos. (Consultas)</div><div></div><div><ul><li>Es un lenguaje formal matemático para consultar y manipular datos en el modelo relacional.</li><li>Proporciona un conjunto de operadores (funciones) que actúan sobre relaciones (tablas) y producen nuevas relaciones como resultado.</li><li>Los operadores se pueden combinar para formar expresiones más complejas.</li><li>Es el fundamento matemático en el que se basan los lenguajes de consulta cono SQL.</li><li>Es un lenguaje procedimental.&nbsp; &nbsp;</li><ul><li>Especifica QUÉ obtener y CÓMO obtenerlo mediante operadores.</li></ul></ul><h2>Operador selección&nbsp;σ</h2></div><div><ul><li>Símbolo&nbsp;σ&lt;c&gt; (R)</li><li>Operador unario&nbsp;σ&lt;c&gt; : R(n) = S(n)</li></ul></div><div>σ&lt;condición&gt; R -&gt; S&nbsp; &nbsp;ST(R) = ST(S)<br></div><div><br></div><div><br></div><div>Selección&nbsp;σ (Propiedades)</div><div>Conmutatividad&nbsp;</div><div></div>",
+  "createdAt": "2026-04-07T22:05:05.005Z",
+  "updatedAt": "2026-04-07T22:23:43.029Z",
+  "favorite": false,
+  "type": "lecture",
+  "isActive": true,
+  "mathMode": true,
+  "subjectId": "1774150180716"
+}
