@@ -35,7 +35,7 @@
         "updatedAt": "2026-04-09T00:43:44.002Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
