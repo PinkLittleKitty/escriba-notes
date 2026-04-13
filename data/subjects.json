@@ -382,9 +382,9 @@
       {
         "id": "id-1776106996953-xyxdee6kx",
         "title": "13/4",
-        "content": "",
+        "content": "1821, universidad de buenos aires, proyecto provincial federalizado, lo cual lleva a crear la universidad de la plata, que toma el modelo de la universidad de parís.<div><br></div>",
         "createdAt": "2026-04-13T19:03:16.953Z",
-        "updatedAt": "2026-04-13T19:13:00.483Z",
+        "updatedAt": "2026-04-13T19:18:05.493Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -393,7 +393,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-04-06T18:57:53.166Z",
-    "lastModified": "2026-04-13T19:13:00.483Z",
+    "lastModified": "2026-04-13T19:18:05.493Z",
     "schedule": [
       {
         "day": 1,
