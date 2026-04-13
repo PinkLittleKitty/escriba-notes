@@ -36,11 +36,21 @@
         "favorite": false,
         "type": "lecture",
         "isActive": true
+      },
+      {
+        "id": "id-1776117791434-m3cy7xzlm",
+        "title": "13/4",
+        "content": "El sistema operativo es un programa, llamado KERNEL, que permite ejecutar programas de forma segura, conveniente, y eficiente.<div><br></div><div>Nuestro prototipo modela la ejecución de programas de usuario, y los algoritmos que utiliza para ello.</div><div><br></div><div>El desarrollo de un sistema operativo se basa en los objetivos del mismo, en la arquitectura, y en el uso que se le vaya a dar. En el caso de la matería, la arquitectura es von neumann.</div><div><br></div><div>El proceso es la ejecución del programa, y se guardan los datos del mismo en el PCB.</div><div><br></div><h2>Estados</h2><div><ul><li>El estado NEW se da al crear un proceso, alguien le pidió al sistema crear un programa, hay que leer ese programa, crear el PCB, donde le asignamos dónde arranca (0), el pid, y otros valores, al tener todos los valores,&nbsp;<span style=\"background-color: transparent;\">hay que cargarlo si hay memoria disponible (y pasarlo a READY),</span></li><li>El estado READY ya está cargado en memoria, es un proceso que quiere ejecutarse y está esperando que la CPU se lo permita, si no hay nadie ejecutandose, pasamos a RUNNING, de otra forma, nos mantenemos en la waiting queue. (Que esté cargado en memoria es un requisito de la arquitectura von neumann)</li><li>El estado RUNNING ejecuta secuencialmente las instrucciones en la CPU hasta encontrar un EXIT, y se pasa a TERMINATED. El hardware le informa al sistema operativo eventos, tales como IO_IN, IO_OUT, o EXIT, y el sistema operativo trata estos eventos con un algoritmo o \"programa\" de acciones.</li><li>El estado WAITING sucede al recibir, por ejemplo, un evento de IO_IN, con el cual se libera la cpu, y se espera a una interrupción de hardawe de entrada y salida (IO_OUT) para pasar nuevamente a READY, y a RUNNING cuando sea posible.</li><li>El estado TERMINATED marca un proceso como terminado.</li></ul></div><div><b><i>¿Por qué en el PCB el pc se carga en 0?</i></b></div><div>En direccionamiento relativo, el program counter indica desplazamiento, por lo que le cargamos cero para indicar que <b>no hay</b> desplazamiento,<span style=\"background-color: transparent;\">&nbsp;el 0 significa la primera instrucción del proceso, sin importar dónde esté cargado físicamente en memoria.</span></div>",
+        "createdAt": "2026-04-13T22:03:11.434Z",
+        "updatedAt": "2026-04-13T23:09:01.732Z",
+        "favorite": false,
+        "type": "lecture",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-04-13T21:45:59.410Z",
+    "lastModified": "2026-04-13T23:09:01.732Z",
     "archived": false,
     "schedule": [
       {
@@ -394,7 +404,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-04-06T18:57:53.166Z",
-    "lastModified": "2026-04-13T21:09:33.979Z",
+    "lastModified": "2026-04-13T22:06:12.857Z",
     "schedule": [
       {
         "day": 1,
