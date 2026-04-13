@@ -360,7 +360,8 @@
     "createdAt": "2025-08-18T12:00:39.049Z",
     "expanded": false,
     "lastModified": "2026-03-28T13:07:32.771Z",
-    "archived": true
+    "archived": true,
+    "schedule": []
   },
   {
     "id": "id-1775501873166-h0ivu3hx9",
@@ -387,7 +388,7 @@
         "updatedAt": "2026-04-13T20:35:08.304Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       }
     ],
     "archived": false,
