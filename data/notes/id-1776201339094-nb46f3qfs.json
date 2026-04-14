@@ -1,9 +1,9 @@
 {
   "id": "id-1776201339094-nb46f3qfs",
   "title": "14/4",
-  "content": "",
+  "content": "<h1>Repaso</h1><div><ul><li>AR: Lenguaje que provee operaciones que</li><ul><li>Se aplican sobre Relaciones</li><li>Y producen Relaciones como resultado</li><li>Pueden combinase para construir expresiones más complejas</li></ul></ul><div>Operadores AR:</div></div><div><ul><li>Selección&nbsp;σ&lt;e&gt;(R)</li><li>Proyección&nbsp;π&lt;a,...,an&gt;(R)</li><li>Unión R U S</li><li>Intersección R&nbsp;⋂ S</li><li>Diferencia R - S</li></ul></div>",
   "createdAt": "2026-04-14T21:15:39.094Z",
-  "updatedAt": "2026-04-14T21:15:45.413Z",
+  "updatedAt": "2026-04-14T21:21:05.101Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
