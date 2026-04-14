@@ -59,8 +59,8 @@
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": true,
-    "lastModified": "2026-04-14T00:43:22.705Z",
+    "expanded": false,
+    "lastModified": "2026-04-14T21:15:36.963Z",
     "archived": false,
     "schedule": [
       {
@@ -110,11 +110,21 @@
         "type": "lecture",
         "isActive": false,
         "mathMode": true
+      },
+      {
+        "id": "id-1776201339094-nb46f3qfs",
+        "title": "14/4",
+        "content": "",
+        "createdAt": "2026-04-14T21:15:39.094Z",
+        "updatedAt": "2026-04-14T21:15:45.413Z",
+        "favorite": false,
+        "type": "lecture",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
-    "expanded": false,
-    "lastModified": "2026-04-08T22:20:38.843Z",
+    "expanded": true,
+    "lastModified": "2026-04-14T21:15:45.413Z",
     "archived": false,
     "schedule": [
       {
