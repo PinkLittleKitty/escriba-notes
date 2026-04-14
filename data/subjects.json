@@ -116,7 +116,7 @@
         "title": "14/4",
         "content": "<h1>Repaso</h1><div><ul><li>AR: Lenguaje que provee operaciones que</li><ul><li>Se aplican sobre Relaciones</li><li>Y producen Relaciones como resultado</li><li>Pueden combinase para construir expresiones más complejas</li></ul></ul><div>Operadores AR:</div></div><div><ul><li>Selección&nbsp;σ&lt;e&gt;(R)</li><li>Proyección&nbsp;π&lt;a,...,an&gt;(R)</li><li>Unión R U S</li><li>Intersección R&nbsp;⋂ S</li><li>Diferencia R - S</li></ul></div><h2>Nuevo Operador: Renombre&nbsp;Ρ (rho)</h2><div>Ejemplo:</div><div>π&lt;bodega&gt;(Ρ&lt;bodega &lt;- marca&gt; Vino)</div><h3>Renombrar todas</h3><div>Ρs(bq, b2, ... , bn) (R)</div><h3>Renombrar sólo la relación</h3><div>Ρs(R)</div><h2>&nbsp;Operador: Producto cartesiano x</h2><div>Ejemplo: Plato x Vino</div><div>Fin: Combinar cada tupla de R con cada tupla de S</div><h2>Operador: Join Natural *</h2><div>EL join natural necesita un atributo en común, si no hay, no funciona, si tengo, une ambas tablas, y ese atributo en común lo mergea.</div>",
         "createdAt": "2026-04-14T21:15:39.094Z",
-        "updatedAt": "2026-04-14T21:59:21.439Z",
+        "updatedAt": "2026-04-14T22:04:40.305Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -124,7 +124,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-04-14T21:59:21.439Z",
+    "lastModified": "2026-04-14T22:04:40.305Z",
     "archived": false,
     "schedule": [
       {
