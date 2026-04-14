@@ -52,15 +52,15 @@
         "title": "13/4 - Ejercicio",
         "content": "<div>El ejercicio pedía ponerse en grupo y detallar y describir cada una de las interrupciones entre todos.</div><div><br></div>#NEW:<div></div><div><ul><li>Chequear el espacio en memoria con LOADER.</li><ul><li>Si hay espacio, crear el PCB y lo cargamos con estado NEW</li><li>Si no hay, espero.</li></ul><li>Añadimos el PCB a la PCB Table.</li><li>Si el PC es -1, cargar en proceso en CPU, si no en la ready queue, y le cargamos estado READY.</li></ul><div>En pseudocódigo sería algo como:</div></div><div><div class=\"code-block-container\" contenteditable=\"false\">\n                <div class=\"code-block-header\">\n                    <span class=\"code-block-title\"><i class=\"fas fa-terminal\"></i> Bloque de Código</span>\n                    <div class=\"code-block-actions\">\n                        <button class=\"code-block-delete-btn\" title=\"Eliminar bloque\"><i class=\"fas fa-trash\"></i></button>\n                    </div>\n                </div>\n                <div id=\"ace-1776123623237\" class=\"inline-ace-editor ace_editor ace_hidpi ace-monokai ace_dark\" data-code=\"class NewInterruptionHandler(AbstractInterruptionHandler):\n    def execute(self, irq):\n        pcb = [pid = intRandom, pc = 0, state = &quot;new&quot;] # Creamos el pcb.\n        self.kernel.pcbTable.append(pcb) # Lo añadimos a la PCB Table\n        _basedir = self.kernel.loader.load(irq.program()) # Lo cargamos en memoria.\n        pcb = pcb + [basedir = _basedir] # Actualizamos el pcb con el basedir\n        if (HARDWARE.cpu._pc == -1): # Si el pc está en idle\n            self.dispatcher.setRunning(pcb) # Lo pasamos directo a running\n        else:\n            self.kernel.readyQueue.append(pcb) # si no lo ponemos en la ready queue\" style=\"height: 160px; min-height: 80px; position: relative; font-size: 14px; font-family: Consolas, Monaco, &quot;Courier New&quot;, monospace;\" draggable=\"false\"></div>\n            </div>\n            <p><br></p><p>#KILL:</p><p></p><ul><li>Pasar el estado del proceso a Terminated.</li><li>Borrar el PCB del proceso.</li><li>Marco la CPU en IDLE (pc = -1).</li><li>Buscar si hay un proceso en la ready queue, y pasar el primero a estado RUNNING.</li></ul><div>#IO_IN</div><div><ul><li>Llama al dispatcher para actualizar el PCB (Estado: WAITING, pc: donde corresponda).</li><li>Pone el proceso en la cola de I/O Devices -&gt; Controlador</li><li>Marco la CPU en Idle (pc = -1)</li><li>Llama al próximo proceso de la ready queue.</li><li>Lo cargo en la CPU, y lo cambio a RUNNING.</li></ul><div>#IO_OUT</div></div><div><ul><li>Saco el proceso de la waiting queue</li><li>Se fija si hay alguien en running, de no haber lo mando directo a RUNNING.</li><li>De haber alguien, lo pongo al final de la ready queue.</li></ul></div><div></div><div></div><p></p></div>",
         "createdAt": "2026-04-13T23:32:21.785Z",
-        "updatedAt": "2026-04-14T00:37:28.286Z",
+        "updatedAt": "2026-04-14T00:42:42.075Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": false
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-04-14T00:37:28.286Z",
+    "lastModified": "2026-04-14T00:42:42.075Z",
     "archived": false,
     "schedule": [
       {
