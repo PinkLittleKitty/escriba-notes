@@ -85,7 +85,7 @@
         "title": "28/3 - Teoría",
         "content": "Evaluaciones:<div><ul><li><u>1er Parcial:</u> Modelado y Algebra relacional</li><li><u>2do Parcial:</u> SQL y Normalización.</li><li><u>Integrador:</u> Todos los temas aprobados &gt;=4</li></ul><div><br></div><div></div><h2>Modelo Entidad Relación:</h2><div>Toda entidad tiene una \"clave\", como, por ejemplo, el DNI.</div><h2>Modelo Relacional:</h2></div><div>Modelo para representar bases de datos mediante relaciones.</div><h3>Esquema de la relación:&nbsp;</h3><div><ul><li>Nombre de la relación + su conjunto de atributos</li><li><code class=\"inline-code\">Materia&lt;código, carrera, nombre, docente_a_cargo&gt;</code></li></ul><h3>Grado relación:</h3></div><div><ul><li>Es la cantidad de atributos de la relación.</li></ul><div><br></div></div><div>Relación: ESTUDIANTE</div><div>Legajo: 84749 &lt;- <u>Clave</u>&nbsp;</div><div>Nombre y Apellido: Sofía Morales</div><div>Ciudad: CABA</div><div>Materia Cursando: (Objetos 1, Bases de Datos)&nbsp;</div><div>Esquema: Estudiante&lt;legajo, nombre_y_apellido, ciudad, {materia_cursando}&gt;</div><div><br></div><div>Las claves pueden ser compuestas, ejemplo: &lt;código, copia&gt;, siendo populada como: &lt;11, A&gt; O &lt;11, B&gt;, no se repite el par, sí se repiten los valores.</div><h3>TLDR:</h3><div><div><ul><li>En MER a las “tablas” las llamamos Entidades</li><li>En MR las llamamos Relaciones</li><li>Las relaciones en MER modelan las conexiones entre las entidades</li><li>Las relaciones en MR mapean entidades y relaciones del MER</li><li>Las relaciones se definen con un nombre y un conjunto de atributos</li><li>No hay orden establecido en la forma de presentar los atributos</li></ul></div></div><h3>Claves:</h3><div>Cada relación debe tener una <b>Clave Primaria</b> (Primary Key)</div><div><ul><li><b>PK</b> es un identificador único</li><li>Puede componerse de uno o varios atributos</li></ul></div><div>Para establecer una relación entre dos relaciones usamos una <b>Clave Foránea</b> (Foreign Key)</div><div><ul><li>Se incluyen los atributos clave de una de las relaciones como los atributos de la otra relación. (Integridad Referencial)</li></ul><div>MER a MR: Entidades</div></div><div>Docente&lt;legajo (PK), nyAp, {(telefono_tipo, telefono_codArea, telefono_numero)}</div><div></div><div></div><div></div><div></div>",
         "createdAt": "2026-03-28T13:07:38.900Z",
-        "updatedAt": "2026-03-28T14:35:38.924Z",
+        "updatedAt": "2026-04-17T18:16:54.617Z",
         "favorite": false,
         "type": "lecture",
         "isActive": false
@@ -105,10 +105,10 @@
         "title": "7/4",
         "content": "<h1>Álgebra relacional</h1><div>El álgebra relacional sirve para responder preguntas con datos. (Consultas)</div><div></div><div><ul><li>Es un lenguaje formal matemático para consultar y manipular datos en el modelo relacional.</li><li>Proporciona un conjunto de operadores (funciones) que actúan sobre relaciones (tablas) y producen nuevas relaciones como resultado.</li><li>Los operadores se pueden combinar para formar expresiones más complejas.</li><li>Es el fundamento matemático en el que se basan los lenguajes de consulta cono SQL.</li><li>Es un lenguaje procedimental.&nbsp; &nbsp;</li><ul><li>Especifica QUÉ obtener y CÓMO obtenerlo mediante operadores.</li></ul></ul><div><br></div><h1>Operadores</h1><div><ul><li>(Sigma) σ&lt;c&gt; R -&gt; S | ST(R) = ST(S) // (Unario) -&gt; Corta horizontalmente.</li><li>(Pi) π&lt;a, ..., an) R -&gt; S | ST(R)&nbsp;≥ ST(S) // (Unario) -&gt; Elimina los duplicados, y corta verticalmente</li><li>(Unión) R&nbsp;∪ S -&gt; T | ST(R) = ST(S) // (Binario) -&gt; Tienen que tener tipos compatibles, mismo grado, y mismo tipo de dato.</li><li>(Intersección) R&nbsp;∩ S -&gt; T&nbsp;</li><li>(Diferencia) R - S -&gt; T | ST(R) ≠&nbsp;ST(S) // (Binario)</li></ul></div><div></div><h3><span style=\"font-size: 2rem; font-weight: 700; background-color: transparent;\">Operador selección&nbsp;</span><span style=\"font-size: 2rem; font-weight: 700; background-color: transparent;\">σ</span></h3></div><div><ul><li>Símbolo&nbsp;σ&lt;c&gt; (R)</li><li>Operador unario&nbsp;σ&lt;c&gt; : R(n) = S(n)</li></ul></div><div>σ&lt;condición&gt; R -&gt; S&nbsp; &nbsp;ST(R) = ST(S)</div><h2>Operador proyección&nbsp;π</h2><div><ul><li>Simplificación de proyecciones</li></ul><div>π&lt;list1&gt;(π&lt;list2&gt;R) =&nbsp;π&lt;list1&gt;R siempre que list1 pertenezca a list2<br></div></div><div><br></div><div><br></div><div>Ejemplos:</div><div>π&lt;marca, variedad&gt; (σ&lt;variedad=\"syrah\" v variedad=\"malbec\"&gt; VINO)<br></div><div></div><div></div><div></div><div></div>",
         "createdAt": "2026-04-07T22:05:05.005Z",
-        "updatedAt": "2026-04-07T23:28:56.204Z",
+        "updatedAt": "2026-04-17T18:20:23.861Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": false,
+        "isActive": true,
         "mathMode": true
       },
       {
@@ -124,7 +124,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-04-17T18:15:17.209Z",
+    "lastModified": "2026-04-17T18:20:23.861Z",
     "archived": false,
     "schedule": [
       {
