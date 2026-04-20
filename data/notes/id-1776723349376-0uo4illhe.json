@@ -1,9 +1,9 @@
 {
   "id": "id-1776723349376-0uo4illhe",
   "title": "20/4",
-  "content": "Los PID en un sistema operativo posta son un GUI",
+  "content": "Los PID en un sistema operativo posta son un GUID completo, no sólo un incremental.<div><br></div><h2>Schedulers</h2><div><ul><li><b>Scheduler de largo plazo (o scheduler de tareas)</b>: selecciona que proceso puede incluirse en la cola de procesos listos (ready queue)- carga los procesos de disco a memoria. (Es decir, es qu)</li><li><b>Scheduler de corto plazo (o scheduler CPU)</b>: selecciona que proceso debe ejecutar a continuación (de la cola de ready) y lo asigna a la CPU.</li><li>El scheduler de corto plazo se invoca muy frequentemente (milisegundos) debe ser rápido, de otra forma crea un overhead sustancial.</li><li>El scheduler de largo plazo se invoca muy frequentemente puede ser lento.</li></ul><div><br></div></div><div>Actualmente estamos usando un \"First Come, First Served.\"&nbsp;</div>",
   "createdAt": "2026-04-20T22:15:49.376Z",
-  "updatedAt": "2026-04-20T22:25:55.718Z",
+  "updatedAt": "2026-04-20T22:31:08.464Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
