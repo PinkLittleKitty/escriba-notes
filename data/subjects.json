@@ -72,7 +72,7 @@
         "title": "22/4",
         "content": "El scheduler debe ser el único componente que acceda y modifique la ready queue.<div>Si definimos un \"Protocolo común\", podremos intercambiar el \"tipo\" de protocolo sin afectar los demás componentes.</div><div><br></div><div>Va a haber una instrucción para pedirle al scheduler que añada un pcb a la ready queue \"add(pcb)\", y van a tener una para que nos devuelva el siguiente PCB \"getNext()\".</div><div>Distintos schedulers van a hacer cosas diferentes con las mismas instrucciones, tienen la misma interfaz (son polimórficos)</div><div><br></div><div>¿Como podemos manejar la expropiación?</div>",
         "createdAt": "2026-04-22T22:27:47.761Z",
-        "updatedAt": "2026-04-22T23:08:00.343Z",
+        "updatedAt": "2026-04-22T23:13:08.964Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -80,7 +80,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-04-22T23:08:00.343Z",
+    "lastModified": "2026-04-22T23:13:08.964Z",
     "archived": false,
     "schedule": [
       {
