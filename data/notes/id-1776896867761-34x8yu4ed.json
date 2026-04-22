@@ -1,9 +1,9 @@
 {
   "id": "id-1776896867761-34x8yu4ed",
   "title": "22/4",
-  "content": "<br>",
+  "content": "El scheduler debe ser el único componente que acceda y modifique la ready queue.<div>Si definimos un \"Protocolo común\", podremos intercambiar el \"tipo\" de protocolo sin afectar los demás componentes.</div><div><br></div><div>Va a haber una instrucción para pedirle al scheduler que añada un pcb a la ready queue.</div><div><br></div><div>Distintos schedulers van a hacer cosas diferentes con las mismas instrucciones</div>",
   "createdAt": "2026-04-22T22:27:47.761Z",
-  "updatedAt": "2026-04-22T22:57:42.192Z",
+  "updatedAt": "2026-04-22T23:02:53.875Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
