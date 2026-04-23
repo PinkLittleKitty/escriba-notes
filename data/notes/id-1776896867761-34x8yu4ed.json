@@ -6,6 +6,6 @@
   "updatedAt": "2026-04-23T00:13:06.273Z",
   "favorite": false,
   "type": "lecture",
-  "isActive": true,
+  "isActive": false,
   "subjectId": "1774150217237"
 }
