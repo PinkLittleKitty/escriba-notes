@@ -80,9 +80,9 @@
       {
         "id": "id-1777932582686-qqw4z0odi",
         "title": "4/5",
-        "content": "Para implementar bien el aging podemos hacer múltiples \"Listas\", cada una conteniendo pcbs de una prioridad. El aging se haría cada X ticks, sumándole aging a el que haya estado más tiempo en la waiting queue.<div>El cambio de prioridad sería si hay espacio en esa lista de prioridad, y cuando se llega a una cantidad específica de ticks ageados.</div><div><br></div><div>2- |&nbsp; &nbsp; |&nbsp; &nbsp; | p2(4) |</div><div>↓</div><div>1 - | p4(7) | P1 (10) | P5(11) | P2(12) |</div><div>↓</div><div>0 - | P6 (13) | &lt;- Se empieza verificando existencia acá.</div>",
+        "content": "Para implementar bien el aging podemos hacer múltiples \"Listas\", cada una conteniendo pcbs de una prioridad. El aging se haría cada X ticks, sumándole aging a el que haya estado más tiempo en la waiting queue.<div>El cambio de prioridad sería si hay espacio en esa lista de prioridad, y cuando se llega a una cantidad específica de ticks ageados.</div><div><br></div><div>2- |&nbsp; &nbsp; |&nbsp; &nbsp; | p2(4) |</div><div>↓</div><div>1 - | p4(7) | P1 (10) | P5(11) | P2(12) |</div><div>↓</div><div>0 - | P6 (13) | &lt;- Se empieza verificando existencia acá.</div><div><br></div><div>De querer mejorarlo, podemos guardar el tick en el que llegó un pcb usando el stat, y lo comparamos usando el tick actual con el tick de llegada, si este pasa el threshold de aging, se lo agea.</div><div><br></div><div>---</div><h1>Memoria</h1><div>dsa</div>",
         "createdAt": "2026-05-04T22:09:42.686Z",
-        "updatedAt": "2026-05-04T22:46:45.607Z",
+        "updatedAt": "2026-05-04T22:51:51.483Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -90,7 +90,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-05-04T22:46:45.607Z",
+    "lastModified": "2026-05-04T22:51:51.483Z",
     "archived": false,
     "schedule": [
       {
