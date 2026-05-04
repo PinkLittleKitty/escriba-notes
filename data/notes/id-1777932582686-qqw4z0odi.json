@@ -1,9 +1,9 @@
 {
   "id": "id-1777932582686-qqw4z0odi",
   "title": "4/5",
-  "content": "Para implementar bien el aging podemos hacer múltiples \"Listas\", cada una conteniendo pcbs de una prioridad. El aging se haría cada X ticks, sumándole aging a el que haya estado más tiempo en la waiting queue.",
+  "content": "Para implementar bien el aging podemos hacer múltiples \"Listas\", cada una conteniendo pcbs de una prioridad. El aging se haría cada X ticks, sumándole aging a el que haya estado más tiempo en la waiting queue.<div>El cambio de prioridad sería si hay espacio en esa lista de prioridad, y cuando se llega a una cantidad específica de ticks ageados.</div><div><br></div><div>2- |&nbsp; &nbsp; |&nbsp; &nbsp; | p2(4) |</div><div>↓</div><div>1 - | p4(7) | P1 (10) | P5(11) | P2(22) |</div><div>↓</div><div>0 - | P6 (13) | &lt;- Se empieza verificando existencia acá.</div>",
   "createdAt": "2026-05-04T22:09:42.686Z",
-  "updatedAt": "2026-05-04T22:36:33.688Z",
+  "updatedAt": "2026-05-04T22:41:38.750Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
