@@ -65,7 +65,7 @@
         "updatedAt": "2026-05-02T20:52:08.316Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "id-1776896867761-34x8yu4ed",
@@ -118,7 +118,7 @@
         "updatedAt": "2026-04-17T20:48:51.475Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "id-1774708540575-c8ajg69pk",
@@ -138,7 +138,7 @@
         "updatedAt": "2026-04-17T22:20:35.768Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true,
+        "isActive": false,
         "mathMode": true
       },
       {
@@ -149,7 +149,7 @@
         "updatedAt": "2026-04-17T22:30:45.663Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       }
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
@@ -448,7 +448,7 @@
         "updatedAt": "2026-05-04T19:06:06.531Z",
         "favorite": false,
         "type": "lecture",
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "id-1777921339482-wvkat62kz",
