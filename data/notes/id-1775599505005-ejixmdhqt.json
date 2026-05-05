@@ -6,7 +6,7 @@
   "updatedAt": "2026-04-17T22:20:35.768Z",
   "favorite": false,
   "type": "lecture",
-  "isActive": true,
+  "isActive": false,
   "mathMode": true,
   "subjectId": "1774150180716"
 }
