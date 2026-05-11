@@ -3,7 +3,7 @@
   "title": "11/5",
   "content": "<h2>Asignación continua:</h2><div>El mmu verifica que no se vaya del registro límite, y de no superarlo, le suma el registro dado al registro límite.</div><div><br></div><div>Cuando se inicia, tiene sólamente bloque vacío que inicia en 0, y termina en el límite de la memoria.</div><div><br></div>",
   "createdAt": "2026-05-11T22:12:10.968Z",
-  "updatedAt": "2026-05-11T22:47:57.611Z",
+  "updatedAt": "2026-05-11T22:53:17.911Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
