@@ -86,11 +86,21 @@
         "favorite": false,
         "type": "lecture",
         "isActive": true
+      },
+      {
+        "id": "id-1778537530968-jhc1fwhew",
+        "title": "11/5",
+        "content": "##Asignación continua:<div><br></div>",
+        "createdAt": "2026-05-11T22:12:10.968Z",
+        "updatedAt": "2026-05-11T22:17:08.271Z",
+        "favorite": false,
+        "type": "lecture",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-05-05T00:13:15.646Z",
+    "lastModified": "2026-05-11T22:17:08.271Z",
     "archived": false,
     "schedule": [
       {
