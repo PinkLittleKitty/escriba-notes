@@ -1,9 +1,9 @@
 {
   "id": "id-1778537530968-jhc1fwhew",
   "title": "11/5",
-  "content": "<h2>Asignación continua:</h2><div>El mmu verifica que no se vaya del registro límite, y de no superarlo, le suma el registro dado al registro límite.</div><div><br></div><div>Cuando se inicia, tiene sólamente bloque vacío que inicia en 0, y termina en el límite de la memoria.</div><div><br></div><div>La compactación se ejecutaría en un NEW, donde verificamos que tenemos memoria suficiente, pero esa memoria no es continua.</div><div><br></div><div>New -&gt; Tengo x celdas?&nbsp;</div><div>&nbsp; &nbsp; Si -&gt; Están juntitas?</div><div>&nbsp; &nbsp; &nbsp; &nbsp; No -&gt; Hagamos fragmentación.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; Sí -&gt; Cargalo a memoria.</div><div>&nbsp; &nbsp; No -&gt; Pantallazo azul. (Sería jocoso imple)</div>",
+  "content": "<h2>Asignación continua:</h2><div>El mmu verifica que no se vaya del registro límite, y de no superarlo, le suma el registro dado al registro límite.</div><div><br></div><div>Cuando se inicia, tiene sólamente bloque vacío que inicia en 0, y termina en el límite de la memoria.</div><div><br></div><div>La compactación se ejecutaría en un NEW, donde verificamos que tenemos memoria suficiente, pero esa memoria no es continua.</div><div><br></div><div>New -&gt; Tengo x celdas?&nbsp;</div><div>&nbsp; &nbsp; Si -&gt; Están juntitas?</div><div>&nbsp; &nbsp; &nbsp; &nbsp; No -&gt; Hagamos fragmentación.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; Sí -&gt; Cargalo a memoria.</div><div>&nbsp; &nbsp; No -&gt; Pantallazo azul. (Sería jocoso implementarlo en el emulador)</div><div><br></div><div>|50k|</div><div>|/////| &lt;- Usado</div><div>|15k|</div><div>|/////| &lt;- Usado</div><div>|8k|</div><div><br></div><div>En la práctica sólo ponemos los libres</div><div><br></div><div>|50k|</div><div><br></div><div>|15k|</div><div><br></div><div>|8k|</div>",
   "createdAt": "2026-05-11T22:12:10.968Z",
-  "updatedAt": "2026-05-11T23:08:48.394Z",
+  "updatedAt": "2026-05-11T23:13:52.252Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
