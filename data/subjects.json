@@ -100,9 +100,9 @@
       {
         "id": "id-1779141970551-4z9gfgjpc",
         "title": "18/5",
-        "content": "<h2>Paginación</h2><div><br></div><div>La idea de la paginación es asignar a los procesos bloques de un mismo tamaño, .</div><div>El espacio lógico de direcciones puede no ser contin</div>",
+        "content": "<h2>Paginación</h2><div><br></div><div>La idea de la paginación es asignar a los procesos bloques de un mismo tamaño, .</div><div><ul><li>El espacio lógico de direcciones puede no ser continuo; se le asigna memoria a un proceso siempre que haya disponible.</li><li>Divide la memoria física en bloques de tamaño fijo llamados marcos (frames) (El tamaño es una potencia de 2, entre 512 bytes y 8192 bytes)</li><li>Divide la memori lógica en bloques de igual tamaño llamados páginas. (Tamaño de pagina == tamaño del frame)</li><li>Mantiene registro de todos los marcos (frames) vacíos.</li><li>Para ejecutar un programa de n páginas, necesita encontrar n marcos (frames) vacíos para cargar el programa.</li><li>Inicializar una tabla de páginas que permita traducir una dirección lógica a una física.</li><li>Fragmentación interna.</li></ul></div>",
         "createdAt": "2026-05-18T22:06:10.551Z",
-        "updatedAt": "2026-05-18T22:36:48.001Z",
+        "updatedAt": "2026-05-18T22:40:15.781Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -110,7 +110,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": false,
-    "lastModified": "2026-05-18T22:36:48.001Z",
+    "lastModified": "2026-05-18T22:40:15.781Z",
     "archived": false,
     "schedule": [
       {
