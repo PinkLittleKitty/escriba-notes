@@ -177,7 +177,7 @@
         "title": "19/5",
         "content": "<div>DDL: 3 - Punto B</div><div>DML:3 - B, G, L</div><div><br></div><div>DDL: \"ALTER edificio add column ciudad varchar(100)\"</div><div><br></div><div>DML:</div><div><ol><li>SELECT oficio<br>from asignacion a<br>join trabajador t on a.legajo = t.legajo<br>where id_e = 435;</li><li>SELECT count(distinct oficio)<br>from trabajador</li><li>SELECT *<br>FROM trabajador t<br>WHERE t.tarifa &lt; AVG(SELECT tarifa<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FROM trabajador to<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHERE t.oficio = to.oficio)</li></ol></div>",
         "createdAt": "2026-05-19T21:08:11.426Z",
-        "updatedAt": "2026-05-19T22:50:18.455Z",
+        "updatedAt": "2026-05-19T22:55:30.997Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -185,7 +185,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-05-19T22:50:18.455Z",
+    "lastModified": "2026-05-19T22:55:30.997Z",
     "archived": false,
     "schedule": [
       {
