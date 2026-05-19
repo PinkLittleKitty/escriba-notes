@@ -177,7 +177,7 @@
         "title": "19/5",
         "content": "<div>DDL: 3 - Punto B</div><div>DML:3 - B, G, L</div>",
         "createdAt": "2026-05-19T21:08:11.426Z",
-        "updatedAt": "2026-05-19T21:33:08.627Z",
+        "updatedAt": "2026-05-19T21:38:20.176Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -185,7 +185,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-05-19T21:33:08.627Z",
+    "lastModified": "2026-05-19T21:38:20.176Z",
     "archived": false,
     "schedule": [
       {
