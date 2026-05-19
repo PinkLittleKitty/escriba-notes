@@ -177,7 +177,7 @@
         "title": "19/5",
         "content": "",
         "createdAt": "2026-05-19T21:08:11.426Z",
-        "updatedAt": "2026-05-19T21:17:37.295Z",
+        "updatedAt": "2026-05-19T21:22:50.575Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -185,7 +185,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-05-19T21:17:37.295Z",
+    "lastModified": "2026-05-19T21:22:50.575Z",
     "archived": false,
     "schedule": [
       {
