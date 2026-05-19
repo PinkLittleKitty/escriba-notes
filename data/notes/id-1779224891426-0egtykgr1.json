@@ -1,9 +1,9 @@
 {
   "id": "id-1779224891426-0egtykgr1",
   "title": "19/5",
-  "content": "<div>DDL: 3 - Punto B</div><div>DML:3 - B, G, L</div><div><br></div><div>DDL: \"ALTER edificio add column ciudad varchar(100)\"</div><div><br></div><div>DML:</div><div><ol><li>SELECT oficio<br>from asignacion a<br>join trabajador t on a.legajo = t.legajo<br>where id_e = 435;</li><li>SELECT count(distinct oficio)<br>from trabajador</li><li>SELECT *<br>FROM trabajador t<br>WHERE t.tarifa &lt; AVG(SELECT tarifa<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FROM trabajador to<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHERE t.oficio = to.oficio)</li></ol></div>",
+  "content": "<div>DDL: 3 - Punto B</div><div>DML:3 - B, G, L</div><div><br></div><div>DDL: \"ALTER edificio add column ciudad varchar(100)\"</div><div><br></div><div>DML:</div><div><ol><li>SELECT oficio<br>from asignacion a<br>join trabajador t on a.legajo = t.legajo<br>where id_e = 435;</li><li>SELECT count(distinct oficio)<br>from trabajador</li><li>SELECT *<br>FROM trabajador t<br>WHERE t.tarifa &lt; AVG(SELECT tarifa<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FROM trabajador to<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHERE t.oficio = to.oficio)</li></ol><div><br></div><div>SELECT oficio<br>from asignacion a<br>join trabajador t on a.legajo = t.legajo<br>where id_e = 435;<br><br>SELECT count(distinct oficio)<br>from trabajador;<br><br>SELECT *<br>FROM trabajador t<br>WHERE t.tarifa &lt; (SELECT AVG(tarifa)<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; FROM trabajador to<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; WHERE t.oficio = to.oficio);<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>SELECT *<br>FROM trabajador t<br>GROUP BY t.oficio<br>HAVING t.tarifa &lt; AVG(t.tarifa);</div></div>",
   "createdAt": "2026-05-19T21:08:11.426Z",
-  "updatedAt": "2026-05-19T22:24:35.444Z",
+  "updatedAt": "2026-05-19T22:29:43.220Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
