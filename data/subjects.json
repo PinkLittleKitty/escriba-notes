@@ -175,9 +175,9 @@
       {
         "id": "id-1779224891426-0egtykgr1",
         "title": "19/5",
-        "content": "",
+        "content": "<div>DDL: 3 - Punto B</div><div>DML:3 - B, G, L</div>",
         "createdAt": "2026-05-19T21:08:11.426Z",
-        "updatedAt": "2026-05-19T21:22:50.575Z",
+        "updatedAt": "2026-05-19T21:28:01.605Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -185,7 +185,7 @@
     ],
     "createdAt": "2026-03-22T03:29:40.716Z",
     "expanded": true,
-    "lastModified": "2026-05-19T21:22:50.575Z",
+    "lastModified": "2026-05-19T21:28:01.605Z",
     "archived": false,
     "schedule": [
       {
