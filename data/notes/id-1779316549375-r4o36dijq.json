@@ -3,7 +3,7 @@
   "title": "20/5",
   "content": "La memoria lógica la dividimos en páginas, y la memoria física la dividimos en frames. Los frames son asignados y tratados como frames por la MMU. Por lo que desde el punto de vista del hardware la memora física está dividida en frames.<div><br></div><h2>Memory manager</h2><div>Componente nuevo de software.</div><div>El tiempo de traducción de una memoria lógica a física es exactamente el mismo sin importar la localización de la misma, literalmente la definición de Random Access Memory lol - SIEMPRE es eficiente, por lo que no hay un orden al asignar las páginas a los frames.</div><div><br></div>",
   "createdAt": "2026-05-20T22:35:49.375Z",
-  "updatedAt": "2026-05-20T23:02:11.261Z",
+  "updatedAt": "2026-05-20T23:07:30.805Z",
   "favorite": false,
   "type": "lecture",
   "isActive": true,
