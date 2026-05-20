@@ -107,11 +107,21 @@
         "type": "lecture",
         "isActive": true,
         "mathMode": false
+      },
+      {
+        "id": "id-1779316549375-r4o36dijq",
+        "title": "20/5",
+        "content": "",
+        "createdAt": "2026-05-20T22:35:49.375Z",
+        "updatedAt": "2026-05-20T22:40:38.914Z",
+        "favorite": false,
+        "type": "lecture",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": false,
-    "lastModified": "2026-05-19T00:08:09.273Z",
+    "lastModified": "2026-05-20T22:40:38.914Z",
     "archived": false,
     "schedule": [
       {
