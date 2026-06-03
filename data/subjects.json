@@ -131,9 +131,9 @@
       {
         "id": "id-1780526036715-70dotatsb",
         "title": "3/6",
-        "content": "",
+        "content": "El loader no va a cargar el programa en memoria, Sólo crea el PCB, la page table, y todo eso.<div>En cuanto este caiga en la ready queue, lo manda a ejecutar, y como no está cargado, va a dar una page fault. Lo cual ejecuta un handler, y ESE va a manejar la carga de esa página.</div>",
         "createdAt": "2026-06-03T22:33:56.715Z",
-        "updatedAt": "2026-06-03T22:38:37.357Z",
+        "updatedAt": "2026-06-03T22:43:45.022Z",
         "favorite": false,
         "type": "lecture",
         "isActive": true
@@ -141,7 +141,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-06-03T22:38:37.357Z",
+    "lastModified": "2026-06-03T22:43:45.022Z",
     "archived": false,
     "schedule": [
       {
