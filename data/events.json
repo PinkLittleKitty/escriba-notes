@@ -42,5 +42,16 @@
     "description": "",
     "createdAt": "2026-05-18T22:46:24.364Z",
     "updatedAt": "2026-05-18T22:46:24.364Z"
+  },
+  {
+    "id": "id-1780557340517-9wjdkjcxe",
+    "title": "Parcial Sistemas Operativos",
+    "subjectId": "1774150217237",
+    "date": "2026-06-24",
+    "time": "19:00",
+    "type": "parcial",
+    "description": "",
+    "createdAt": "2026-06-04T07:15:40.517Z",
+    "updatedAt": "2026-06-04T07:15:40.517Z"
   }
 ]
