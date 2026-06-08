@@ -6,7 +6,7 @@
   "updatedAt": "2026-06-04T06:41:05.724Z",
   "favorite": false,
   "type": "lecture",
-  "isActive": true,
+  "isActive": false,
   "language": "python",
   "mathMode": false,
   "subjectId": "1774150217237"
