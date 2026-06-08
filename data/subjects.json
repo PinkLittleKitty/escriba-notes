@@ -139,11 +139,22 @@
         "isActive": true,
         "language": "python",
         "mathMode": false
+      },
+      {
+        "id": "id-1780956772228-rvx6l9kkk",
+        "title": "8/6",
+        "content": "",
+        "createdAt": "2026-06-08T22:12:52.228Z",
+        "updatedAt": "2026-06-08T22:16:41.508Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": false,
-    "lastModified": "2026-06-08T19:10:17.225Z",
+    "expanded": true,
+    "lastModified": "2026-06-08T22:16:41.508Z",
     "archived": false,
     "schedule": [
       {
@@ -546,9 +557,9 @@
       }
     ],
     "archived": false,
-    "expanded": true,
+    "expanded": false,
     "createdAt": "2026-04-06T18:57:53.166Z",
-    "lastModified": "2026-06-08T20:07:47.670Z",
+    "lastModified": "2026-06-08T22:12:46.451Z",
     "schedule": [
       {
         "day": 1,
