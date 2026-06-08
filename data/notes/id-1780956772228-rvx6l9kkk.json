@@ -1,12 +1,12 @@
 {
   "id": "id-1780956772228-rvx6l9kkk",
   "title": "8/6",
-  "content": "<h2>Algoritmos de selección de víctima:</h2><div><ul><li>Queremos la menor frequencia de fallo.</li><li>Evaluamos el algoritmo recorriendo con una secuencia particular de referencias a memoria (reference string) y calculamos el número de fallos de la secuencia.</li><li>En los ejemplos usamos la siguiente secuencia:</li></ul><div style=\"text-align: center; \">1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5</div></div><div style=\"text-align: left;\"><br></div><div></div><div></div><div></div>",
+  "content": "<h2>Algoritmos de selección de víctima:</h2><div><ul><li>Queremos la menor frequencia de fallo.</li><li>Evaluamos el algoritmo recorriendo con una secuencia particular de referencias a memoria (reference string) y calculamos el número de fallos de la secuencia.</li><li>En los ejemplos usamos la siguiente secuencia:</li></ul><div style=\"text-align: center; \">1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5</div></div><h3 style=\"text-align: left;\">First-In First-Out:</h3><div><br></div><div style=\"text-align: left;\"></div><div style=\"text-align: left;\"></div><div></div><div></div><div></div>",
   "createdAt": "2026-06-08T22:12:52.228Z",
-  "updatedAt": "2026-06-08T22:38:11.855Z",
+  "updatedAt": "2026-06-08T22:46:41.508Z",
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
-  "isActive": false,
+  "isActive": true,
   "subjectId": "1774150217237"
 }
