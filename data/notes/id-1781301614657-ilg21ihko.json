@@ -1,0 +1,12 @@
+{
+  "id": "id-1781301614657-ilg21ihko",
+  "title": "Nuevo apunte",
+  "content": "",
+  "createdAt": "2026-06-12T22:00:14.657Z",
+  "updatedAt": "2026-06-12T22:00:14.657Z",
+  "favorite": false,
+  "type": "lecture",
+  "language": "javascript",
+  "isActive": false,
+  "subjectId": "1774150217237"
+}

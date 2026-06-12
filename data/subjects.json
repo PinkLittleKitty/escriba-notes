@@ -154,11 +154,22 @@
         "type": "lecture",
         "language": "javascript",
         "isActive": true
+      },
+      {
+        "id": "id-1781301614657-ilg21ihko",
+        "title": "Nuevo apunte",
+        "content": "",
+        "createdAt": "2026-06-12T22:00:14.657Z",
+        "updatedAt": "2026-06-12T22:00:14.657Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": false
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
-    "expanded": true,
-    "lastModified": "2026-06-09T00:21:15.803Z",
+    "expanded": false,
+    "lastModified": "2026-06-12T22:00:15.331Z",
     "archived": false,
     "schedule": [
       {
