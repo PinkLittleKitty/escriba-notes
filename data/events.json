@@ -64,5 +64,16 @@
     "description": "",
     "createdAt": "2026-06-13T13:13:52.506Z",
     "updatedAt": "2026-06-13T13:13:52.506Z"
+  },
+  {
+    "id": "id-1781381588081-hw052jy2j",
+    "title": "Segundo Parcial Bases de datos",
+    "subjectId": "1774150180716",
+    "date": "2026-06-23",
+    "time": "18:00",
+    "type": "parcial",
+    "description": "",
+    "createdAt": "2026-06-13T20:13:08.081Z",
+    "updatedAt": "2026-06-13T20:13:08.081Z"
   }
 ]
