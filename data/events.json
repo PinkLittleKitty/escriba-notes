@@ -53,5 +53,16 @@
     "description": "",
     "createdAt": "2026-06-04T07:15:40.517Z",
     "updatedAt": "2026-06-04T07:15:40.517Z"
+  },
+  {
+    "id": "id-1781356432506-ifko1i480",
+    "title": "Parcial Bases de Datos",
+    "subjectId": "1774150180716",
+    "date": "2026-06-23",
+    "time": "",
+    "type": "parcial",
+    "description": "",
+    "createdAt": "2026-06-13T13:13:52.506Z",
+    "updatedAt": "2026-06-13T13:13:52.506Z"
   }
 ]
