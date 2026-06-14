@@ -6,7 +6,7 @@
   "updatedAt": "2026-06-13T20:27:13.680Z",
   "favorite": false,
   "type": "lecture",
-  "isActive": true,
+  "isActive": false,
   "language": "javascript",
   "subjectId": "1774150217237"
 }
