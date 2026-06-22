@@ -156,11 +156,22 @@
         "type": "lecture",
         "language": "javascript",
         "isActive": false
+      },
+      {
+        "id": "id-1782167886469-j5ybukgbd",
+        "title": "Apunte sin título",
+        "content": "<div><ul><li>4 hojas ya cuadriculada con mínimo 30 celdas.</li><li>Darle bola a cuándo entra el proceso en los ejercicios de gantt.</li><li>Hacerlo SIEMPRE tick por tick, tranqui. no te apures.</li><li>Si nos toca FCFS es orden de llegada, si un proceso grande cae primero los demás se quedan esperando a que termine. (efecto convoy)</li><li>Short end Short first, ráfaga de cpu más chica corre primero, depende si es expropiativo o no&nbsp;</li></ul></div><div></div>",
+        "createdAt": "2026-06-22T22:38:06.469Z",
+        "updatedAt": "2026-06-22T22:59:50.005Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": true
       }
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-06-14T02:24:47.874Z",
+    "lastModified": "2026-06-22T22:59:48.285Z",
     "archived": false,
     "schedule": [
       {
