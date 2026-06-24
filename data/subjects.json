@@ -171,9 +171,9 @@
       {
         "id": "id-1782324902946-d17xfg0q6",
         "title": "RESUMEN",
-        "content": "<h2>Historia de los SO</h2><div><ul><li>1 Gen (45-55): Tubos al vacío: Foco: que la máquina ande. Sin SO, cableado manual, un solo programa en lenguaje máquina.</li><li>2</li></ul></div>",
+        "content": "<h2>Historia de los SO</h2><div><ul><li>1 Gen (45-55): Tubos al vacío. Foco: que la máquina ande. Sin SO, cableado manual, un solo programa en lenguaje máquina.</li><li>2 Gen (55-65): Transistores. Foco: Maximizar CPU. Procesamiento por lotes (batch), tarjetas perforadas/cintas, aparecen \"monitores\" (FMS, IBSYS). Separa programador de operador.&nbsp;</li><li>3 Gen (65-80): Circuitos integrados. Foco: CPU + Interacción. Multiprogramación, Interrupciones, planificación de CPU, particiones, Time-Sharing y Spooling.</li><li>4 Gen (80-Hoy): PCs. Foco: Experiencia de usuario. LSI/VLSI, interfaces gráficas, multitarea, redes, sistemas distribuidos e internet.</li></ul><h2>Conceptos fundamentales y estructura</h2><div><ul><li>Rol del SO: Intermediario. Administra hardware y da servicios buscando eficiencia y comodidad (abstracciones).</li><li>Organización: CPU, dispositivos I/O, Memoria Principal (Volátil, acceso directo a CPU)</li></ul></div></div>",
         "createdAt": "2026-06-24T18:15:02.946Z",
-        "updatedAt": "2026-06-24T18:59:52.670Z",
+        "updatedAt": "2026-06-24T19:04:51.523Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -182,7 +182,7 @@
     ],
     "createdAt": "2026-03-22T03:30:17.237Z",
     "expanded": true,
-    "lastModified": "2026-06-24T18:59:52.670Z",
+    "lastModified": "2026-06-24T19:04:51.523Z",
     "archived": false,
     "schedule": [
       {
