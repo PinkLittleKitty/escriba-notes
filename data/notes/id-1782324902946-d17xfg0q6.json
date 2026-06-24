@@ -1,9 +1,9 @@
 {
   "id": "id-1782324902946-d17xfg0q6",
   "title": "RESUMEN",
-  "content": "<div>Conceptos fundamentales:</div><div>Definición de Sis</div>",
+  "content": "<h2>Conceptos fundamentales:</h2><h3>Definición de Sistema Operativo:</h3><div><ul><li>Environment para&nbsp;Para maximizar el uso de recursos y asegurar que un programa va a correr.</li></ul><div>Rol de un SO:</div><div><ul><li>Administra los recursos del hardware.</li><li>Proporciona servicios a los programas.</li><li>Actúa como intermediario entre usuario y hardware.</li><li>sus principales objetivos son la eficiencia en el uso de recursos y la comodidad mediante abstracciones.</li></ul><div>Organización de una computadora:</div><div><ul><li>Central Processing Unit (CPU)</li><li>Dispositivos de I/O</li><li>Memoria Principal (volátil, la CPU puede acceder a ella directamente)</li><ul><li>Matriz de palabras o bytes, con un tamaño que va de millones a miles de millones de posiciones de posiciones distintas.</li></ul><li>Memoria Secundaria:</li><ul><li>Puede mantener enormes cantidades de datos de forma permanente.</li></ul><li>Todos estos dispositivos se encuentran conectados mediante buses.</li><li><br></li></ul></div></div></div>",
   "createdAt": "2026-06-24T18:15:02.946Z",
-  "updatedAt": "2026-06-24T18:16:18.354Z",
+  "updatedAt": "2026-06-24T18:21:20.694Z",
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
