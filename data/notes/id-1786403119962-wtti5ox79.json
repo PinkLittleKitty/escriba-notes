@@ -1,9 +1,9 @@
 {
   "id": "id-1786403119962-wtti5ox79",
   "title": "10/08",
-  "content": "",
+  "content": "<div>classDiagram</div><div><br></div><div>Cuenta &lt;|-- CuentaCorriente</div><div>Cuenta &lt;|-- CajaDeAhorro</div><div><br></div><div>class Banco{</div><div>&nbsp; &nbsp; +agregarCuenta(Cuenta) void</div><div>&nbsp; &nbsp; +eliminarCuenta(Cuenta) void</div><div>&nbsp; &nbsp; +liquido() real</div><div>&nbsp; &nbsp; +cuentas() Cuenta</div><div>}</div><div><br></div><div>class Cuenta {</div><div>&nbsp; &nbsp; +depositar(monto : real) void</div><div>&nbsp; &nbsp; +extraer(monto : real) void</div><div>&nbsp; &nbsp; +saldo() real</div><div>}</div><div><br></div>",
   "createdAt": "2026-08-10T23:05:19.962Z",
-  "updatedAt": "2026-08-10T23:29:59.241Z",
+  "updatedAt": "2026-08-10T23:34:59.241Z",
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
