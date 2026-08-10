@@ -601,7 +601,19 @@
     "code": "PO2",
     "professor": "Diego Torres",
     "color": "#ef4444",
-    "notes": [],
+    "notes": [
+      {
+        "id": "id-1786403119962-wtti5ox79",
+        "title": "10/08",
+        "content": "",
+        "createdAt": "2026-08-10T23:05:19.962Z",
+        "updatedAt": "2026-08-10T23:09:59.241Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": true
+      }
+    ],
     "schedule": [
       {
         "day": 1,
@@ -615,7 +627,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-10T23:04:46.570Z"
+    "lastModified": "2026-08-10T23:09:59.241Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
