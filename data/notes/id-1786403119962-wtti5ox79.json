@@ -1,12 +1,12 @@
 {
   "id": "id-1786403119962-wtti5ox79",
   "title": "10/08",
-  "content": "<div class=\"code-block-container\" contenteditable=\"false\">\n                <div class=\"code-block-header\">\n                    <span class=\"code-block-title\"><i class=\"fas fa-terminal\"></i> Bloque de Código</span>\n                    <div class=\"code-block-actions\">\n                        <button class=\"code-block-delete-btn\" title=\"Eliminar bloque\"><i class=\"fas fa-trash\"></i></button>\n                    </div>\n                </div>\n                <div id=\"ace-1786406465154\" class=\"inline-ace-editor ace_editor ace_hidpi ace-monokai ace_dark\" data-code=\"classDiagram\n\nBanco &lt;--&quot;*&quot; Cuenta :-misCuentas\nCuenta &lt;|-- CuentaCorriente\nCuenta &lt;|-- CajaDeAhorro\n\nclass Banco{\n    +agregarCuenta(cuenta : Cuenta) void\n    +eliminarCuenta(cuenta : Cuenta) void\n    +liquido() real\n    +cuentas() List&lt;Cuenta&gt;\n}\n\nclass Cuenta { &lt;&lt;abstract&gt;&gt;\n    -saldo : real\n    +depositar(monto : real) void\n    +extraer(monto : real) void *\n    +saldo() real\n}\n\n\nclass CuentaCorriente {\n    -descubierto : real\n    +extraer(monto : real) void\n}\n\nclass CajaDeAhorro {\n    +extraer(monto : real) void\n}\n\" style=\"height: 400px; min-height: 80px; position: relative; font-size: 14px; font-family: Consolas, Monaco, &quot;Courier New&quot;, monospace;\"></div>\n            </div>\n            <p><span style=\"background-color: rgb(255, 241, 118);\">TODO: Reemplazar este codeblock de mermaid por el uml cuando funque lol</span></p>",
+  "content": "<br>",
   "createdAt": "2026-08-10T23:05:19.962Z",
-  "updatedAt": "2026-08-11T00:05:25.690Z",
+  "updatedAt": "2026-08-11T20:15:27.808Z",
   "favorite": false,
   "type": "lecture",
   "language": "text",
-  "isActive": true,
+  "isActive": false,
   "subjectId": "id-1786320741317-lfk7l6sp5"
 }
