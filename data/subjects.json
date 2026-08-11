@@ -605,13 +605,13 @@
       {
         "id": "id-1786403119962-wtti5ox79",
         "title": "10/08",
-        "content": "\n            \n            <p><br></p>\n        \n            \n            <p><br></p>\n        <br>",
+        "content": "\n            \n            <p>\n            <div class=\"uml-diagram-container\" contenteditable=\"false\" data-uml-code=\"classDiagram\n    Animal &lt;|-- Duck\n    Animal &lt;|-- Fish\n    Animal &lt;|-- Zebra\n    Animal : +int age\n    Animal : +String gender\n    Animal: +isMammal()\n    Animal: +mate()\" data-diagram-type=\"class\">\n                <div class=\"uml-diagram-header\">\n                    <span class=\"uml-diagram-title uml-diagram-type\"><i class=\"fas fa-project-diagram\"></i> Diagrama de Clases</span>\n                    <div class=\"uml-diagram-actions\">\n                        <button class=\"uml-edit-btn\" title=\"Editar diagrama\"><i class=\"fas fa-edit\"></i></button>\n                        <button class=\"uml-delete-btn\" title=\"Eliminar diagrama\"><i class=\"fas fa-trash\"></i></button>\n                    </div>\n                </div>\n                <div id=\"uml-1786480307769-36kcketn0\" class=\"uml-diagram-content\"><div class=\"uml-loading\"><i class=\"fas fa-spinner fa-spin\"></i> Generando...</div></div>\n            </div>\n            <p><br></p>\n        <br></p>\n        \n            \n            <p><br></p>\n        <br>",
         "createdAt": "2026-08-10T23:05:19.962Z",
-        "updatedAt": "2026-08-11T20:27:14.238Z",
+        "updatedAt": "2026-08-11T20:31:48.295Z",
         "favorite": false,
         "type": "lecture",
         "language": "text",
-        "isActive": true
+        "isActive": false
       }
     ],
     "schedule": [
@@ -627,7 +627,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-11T20:27:14.238Z"
+    "lastModified": "2026-08-11T20:31:48.295Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
@@ -645,6 +645,6 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-08-10T00:13:09.988Z"
+    "lastModified": "2026-08-11T20:31:34.340Z"
   }
 ]
