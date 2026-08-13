@@ -611,7 +611,7 @@
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
-        "isActive": true
+        "isActive": false
       }
     ],
     "schedule": [
