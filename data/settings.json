@@ -1,9 +1,10 @@
 {
-  "theme": "dark",
-  "fontFamily": "Inter",
+  "theme": "catppuccin",
+  "fontFamily": "",
   "fontSize": 16,
   "autoSave": true,
   "autoSync": true,
   "expandSubjects": true,
-  "showWelcome": true
+  "showWelcome": true,
+  "storageMode": "github"
 }
