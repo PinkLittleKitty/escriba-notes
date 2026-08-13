@@ -3,7 +3,7 @@
   "title": "TP1",
   "content": "<div>1- Opción 2, con una sola esquina tenés el rectángulo entero.</div><div>2- Opción 2, encapsula mejor la tarea de cada uno, aunque no me convence que jefe tenga relación directa a secretario.</div><div>3- Opción 1: No es bueno comparar el nombre de clases en una alternativa condicional (Ni hacerlo así en primer lugar.)</div><div>Opción 2: No me gusta usar una comparación a string del tipo, y sigue sin ser polimórfico.</div>",
   "createdAt": "2026-08-13T01:33:39.783Z",
-  "updatedAt": "2026-08-13T02:16:04.387Z",
+  "updatedAt": "2026-08-13T02:21:04.387Z",
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
