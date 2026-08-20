@@ -652,11 +652,11 @@
         "title": "20/8",
         "content": "<div>/etc están las configuraciones del sistema.</div><div>/bin están todos los binarios de las aplicaciones.</div><div>/boot está el kernel en sí.</div>/dev están los archivos que representan los periféricos.<div>/home están las carpetas de los usuarios<br><div><br></div><div>En unix los drivers son \"Módulos\" del kernel.</div></div><div>En unix, los archivos ocultos empiezan con punto, y ahí suelen estar las configuraciones.</div><div>En unix los accesos a dispositivos y programas particulares los usan usuarios particulares preconfigurados por el sistema, esto permite mitigar los problemas de seguridad, hay un campo que dice \"nologin\", lo cual significa que no podés usarlo para entrar al sistema.</div><div><br></div><div>ls: lista archivos</div><div>ls -l lista archivos con datos de los mismos</div><div>ls -la lista archivos ocultos y normales con datos de los mismos.</div><div>cat muestra los contenidos de los archivos.</div><div><br></div><div><span style=\"background-color: rgb(255, 241, 118);\">cd sin parámetros vuelve a home lpm</span></div><div><br></div><div>-rw-r----- 1&nbsp; &nbsp; root&nbsp; &nbsp; &nbsp; &nbsp;shadow ...</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;usuario&nbsp; grupo</div><div>Primera posición: determina si es una carpeta o archivo (carpeta = d)</div><div>Segunda: puede ser R o -, significa que el dueño tiene permiso de escritura o no.</div><div>Tercera: puese ser W o -, significa que el dueño tiene permiso de lect<span style=\"background-color: transparent;\">ura o no.</span></div><div>Cuarta: puede ser X o -, significa que el dueño&nbsp;<span style=\"background-color: transparent;\">tiene permiso de ejecución o no.</span></div><div><div>Quinta: puede ser R o -, significa que el grupo tiene permiso de escritura o no.</div><div>Sexta: puese ser W o -, significa que el grupo tiene permiso de lectura o no.</div><div>Séptima: puede ser X o -, significa que el grupo tiene permiso de ejecución o no.</div></div><div><div><div>Octava: puede ser R o -, significa que otro tiene permiso de escritura o no.</div><div>Novena: puese ser W o -, significa que otro tiene permiso de lectura o no.</div><div>Décima: puede ser X o -, significa que otro tiene permiso de ejecución o no.</div></div><div><br></div></div>",
         "createdAt": "2026-08-20T21:47:07.443Z",
-        "updatedAt": "2026-08-20T22:17:27.139Z",
+        "updatedAt": "2026-08-20T22:23:55.414Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
-        "isActive": false
+        "isActive": true
       }
     ],
     "schedule": [
@@ -668,6 +668,6 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-08-20T22:17:27.139Z"
+    "lastModified": "2026-08-20T22:23:55.414Z"
   }
 ]
