@@ -650,13 +650,13 @@
       {
         "id": "id-1787262427443-kyqw2njo4",
         "title": "20/8",
-        "content": "<div>/etc están las configuraciones del sistema.</div><div>/bin están todos los binarios de las aplicaciones.</div><div>/boot está el kernel en sí.</div>/dev están los archivos que representan los periféricos.<div><br></div><div>En unix los drivers son \"Módulos\" del kernel.</div>",
+        "content": "<div>/etc están las configuraciones del sistema.</div><div>/bin están todos los binarios de las aplicaciones.</div><div>/boot está el kernel en sí.</div>/dev están los archivos que representan los periféricos.<div>/home están las carpetas de los usuarios<br><div><br></div><div>En unix los drivers son \"Módulos\" del kernel.</div></div><div><br></div><div><span style=\"background-color: rgb(255, 241, 118);\">cd sin parámetros vuelve a home lpm</span></div><div><br></div>",
         "createdAt": "2026-08-20T21:47:07.443Z",
-        "updatedAt": "2026-08-20T21:50:39.440Z",
+        "updatedAt": "2026-08-20T21:52:10.037Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
-        "isActive": true
+        "isActive": false
       }
     ],
     "schedule": [
