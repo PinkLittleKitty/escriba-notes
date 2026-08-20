@@ -636,9 +636,9 @@
       }
     ],
     "archived": false,
-    "expanded": true,
+    "expanded": false,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-20T20:18:03.080Z"
+    "lastModified": "2026-08-20T21:47:05.667Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
@@ -646,7 +646,19 @@
     "code": "LABO",
     "professor": "",
     "color": "#f59e0b",
-    "notes": [],
+    "notes": [
+      {
+        "id": "id-1787262427443-kyqw2njo4",
+        "title": "20/8",
+        "content": "<div>/etc están las configuraciones del sistema.</div><div>/bin están todos los binarios de las aplicaciones.</div><div>/boot está el kernel en sí.</div>/dev están los archivos que representan los periféricos.<div><br></div><div>En unix los drivers son \"Módulos\" del kernel.</div>",
+        "createdAt": "2026-08-20T21:47:07.443Z",
+        "updatedAt": "2026-08-20T21:49:43.908Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": true
+      }
+    ],
     "schedule": [
       {
         "day": 4,
@@ -654,8 +666,8 @@
       }
     ],
     "archived": false,
-    "expanded": false,
+    "expanded": true,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-08-20T19:00:38.625Z"
+    "lastModified": "2026-08-20T21:49:43.908Z"
   }
 ]
