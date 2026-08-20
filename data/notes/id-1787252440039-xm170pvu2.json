@@ -3,7 +3,7 @@
   "title": "TP2 - UML",
   "content": "<div>classDiagram</div><div>&nbsp; &nbsp; Empresa &lt;--\"*\" Empleado</div><div><br></div><div>&nbsp; &nbsp; class Empresa {</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - nombre : String</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - CUIT : String</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - Empleados : List&lt;Empleado&gt;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - ldisciquidación() Void</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - totalSueldosNetos() Int</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - totalSueldosBrutos() Int</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - totalRetenciones() Int</div><div>&nbsp; &nbsp; }</div><div>&nbsp; &nbsp;&nbsp;</div><div>&nbsp; &nbsp; class Empleado {</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - nombre : String</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - dirección : String</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - estadoCivil : EstadoCivil</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - fechaNac : Date</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - sueldoBasico : Int</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - recibos : List&lt;Recibo&gt;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - edad() : Int</div><div>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</div><div>&nbsp; &nbsp; }</div>",
   "createdAt": "2026-08-20T19:00:40.039Z",
-  "updatedAt": "2026-08-20T19:20:23.430Z",
+  "updatedAt": "2026-08-20T19:25:23.430Z",
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
