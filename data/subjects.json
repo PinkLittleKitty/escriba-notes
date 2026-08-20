@@ -612,6 +612,17 @@
         "type": "lecture",
         "language": "javascript",
         "isActive": false
+      },
+      {
+        "id": "id-1787252440039-xm170pvu2",
+        "title": "TP2 - UML",
+        "content": "",
+        "createdAt": "2026-08-20T19:00:40.039Z",
+        "updatedAt": "2026-08-20T19:05:23.430Z",
+        "favorite": false,
+        "type": "lecture",
+        "language": "javascript",
+        "isActive": true
       }
     ],
     "schedule": [
@@ -627,7 +638,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-14T01:18:55.790Z"
+    "lastModified": "2026-08-20T19:05:23.430Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
@@ -645,6 +656,6 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-08-11T20:31:34.340Z"
+    "lastModified": "2026-08-20T19:00:38.625Z"
   }
 ]
