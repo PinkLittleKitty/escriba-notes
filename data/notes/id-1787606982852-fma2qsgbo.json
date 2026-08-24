@@ -1,0 +1,12 @@
+{
+  "id": "id-1787606982852-fma2qsgbo",
+  "title": "24/8",
+  "content": "",
+  "createdAt": "2026-08-24T21:29:42.852Z",
+  "updatedAt": "2026-08-24T21:34:15.978Z",
+  "favorite": false,
+  "type": "lecture",
+  "language": "javascript",
+  "isActive": true,
+  "subjectId": "id-1786320741317-lfk7l6sp5"
+}
