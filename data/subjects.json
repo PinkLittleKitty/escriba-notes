@@ -627,9 +627,9 @@
       {
         "id": "id-1787606982852-fma2qsgbo",
         "title": "24/8",
-        "content": "La arquitectura de software se divide en capas, frontend, backend, y persistencia.<div><ul><li>Frontend: Su objetivo es capturar datos y negocios con el usuario.</li><li>Backend: Implementa las reglas de negocio.</li><li>Persistencia: Me permite que los datos no se pierdan.</li></ul></div>",
+        "content": "La arquitectura de software se divide en capas, frontend, backend, y persistencia.<div><ul><li>Frontend: Su objetivo es capturar datos y negocios con el usuario.</li><li>Backend: Implementa las reglas de negocio.</li><li>Persistencia: Me permite que los datos no se pierdan.</li></ul><div>Las primeras arquitecturas eran basadas en HTML, había un server, dentro del cual había mútiples aplicaciones web, y dentro de esas aplicaciones, recursos .html. Cuando en un browser quería acceder a una de esas aplicaciones web, ponemos la ip, app, y el recurso .html, a través de una request HTTP.</div></div><div>Tras esto, aparecen las aplicaciones web \"server-side\", las cuales también tienen un server web, en vez de tener archivos .html, hay partes de la ´agina que ya están escritas, pero hay algunas dinámicas, que se completan tras consultar datos con el&nbsp;</div>",
         "createdAt": "2026-08-24T21:29:42.852Z",
-        "updatedAt": "2026-08-24T21:39:15.978Z",
+        "updatedAt": "2026-08-24T21:44:18.592Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -649,7 +649,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-24T21:39:15.978Z"
+    "lastModified": "2026-08-24T21:44:18.592Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
