@@ -627,9 +627,9 @@
       {
         "id": "id-1787606982852-fma2qsgbo",
         "title": "24/8",
-        "content": "",
+        "content": "La arquitectura de software se divide en capas, frontend, backend, y persistencia.<div><ul><li>Frontend: Su objetivo es capturar datos y negocios con el usuario.</li><li>Backend: Implementa las reglas de negocio.</li><li>Persistencia: Me permite que los datos no se pierdan.</li></ul></div>",
         "createdAt": "2026-08-24T21:29:42.852Z",
-        "updatedAt": "2026-08-24T21:34:15.978Z",
+        "updatedAt": "2026-08-24T21:39:15.978Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -649,7 +649,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-24T21:34:15.978Z"
+    "lastModified": "2026-08-24T21:39:15.978Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
