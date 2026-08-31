@@ -638,9 +638,9 @@
       {
         "id": "id-1788211253503-pax22c4jx",
         "title": "31/8",
-        "content": "",
+        "content": "Tests:<div><ul><li>Source folder hermano de src llamado test.</li><li>Misma estructura de paquetes que las clases.</li><li>Las clases de test llevan el mismo nombre que la clase que testean con la palabra Test al final.</li></ul></div>",
         "createdAt": "2026-08-31T21:20:53.503Z",
-        "updatedAt": "2026-08-31T21:25:23.280Z",
+        "updatedAt": "2026-08-31T21:30:23.280Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -660,7 +660,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-31T21:25:23.280Z"
+    "lastModified": "2026-08-31T21:30:23.280Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
