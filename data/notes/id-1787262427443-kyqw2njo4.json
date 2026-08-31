@@ -7,6 +7,6 @@
   "favorite": false,
   "type": "lecture",
   "language": "javascript",
-  "isActive": true,
+  "isActive": false,
   "subjectId": "id-1786320788253-qu5060idr"
 }
