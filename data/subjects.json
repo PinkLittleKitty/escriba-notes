@@ -640,7 +640,7 @@
         "title": "31/8",
         "content": "<h2>Tests</h2><div><ul><li>Source folder hermano de src llamado test.</li><li>Misma estructura de paquetes que las clases.</li><li>Las clases de test llevan el mismo nombre que la clase que testean con la palabra Test al final.</li><li>Los métodos que hacen las balidaciones tienen que tener la notación @Test sobre ellos.</li><li>Los assert pueden llevar opcionalmente un mensaje de error como parámetro.&nbsp;</li><li>Los tests de unidad prueban un método particular asumiendo que todo lo que usa funciona bien.</li><li>Vamos a tener una clase para \"mockear\" clases, que retornen valores hardcodeados para asegurarnos que, de haber un error, está en ese método.</li></ul></div><div></div>",
         "createdAt": "2026-08-31T21:20:53.503Z",
-        "updatedAt": "2026-08-31T21:50:33.160Z",
+        "updatedAt": "2026-08-31T21:55:33.160Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -660,7 +660,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-08-31T21:50:33.160Z"
+    "lastModified": "2026-08-31T21:55:33.160Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
