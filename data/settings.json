@@ -1,10 +1,11 @@
 {
   "theme": "catppuccin",
-  "fontFamily": "Inter, sans-serif",
+  "fontFamily": "Inter",
   "fontSize": 16,
   "autoSave": true,
   "autoSync": true,
   "expandSubjects": true,
   "showWelcome": true,
-  "storageMode": "github"
+  "storageMode": "github",
+  "customAccent": null
 }
