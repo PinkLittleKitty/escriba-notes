@@ -1,0 +1,28 @@
+{
+  "subjects": [
+    {
+      "id": "sub-welcome",
+      "name": "Bienvenido a Escriba",
+      "code": "GUIA",
+      "professor": "Escriba Team",
+      "color": "#3b82f6",
+      "schedule": [],
+      "notes": [
+        {
+          "id": "note-welcome-1",
+          "title": "Primeros pasos con Escriba",
+          "content": "<h2>¡Bienvenido a tu nueva carpeta digital! 🚀</h2><p>Escriba te permite organizar tus materias y apuntes de manera simple y rápida.</p><ul><li><b>Materias:</b> Organizá tus notas con colores y horarios de cursada.</li><li><b>Editor enriquecido:</b> Usá fórmulas en LaTeX, bloques de código interactivos y diagramas UML.</li><li><b>Sincronización:</b> Conectá con GitHub o guardá en una carpeta local de tu disco.</li></ul><p>¡Hacé clic en <b>Nueva Materia</b> o en <b>Nuevo Apunte</b> para empezar!</p>",
+          "subjectId": "sub-welcome",
+          "favorite": true,
+          "tags": [
+            "guía"
+          ],
+          "createdAt": "2026-09-01T01:03:17.149Z",
+          "updatedAt": "2026-09-01T01:03:17.149Z"
+        }
+      ]
+    }
+  ],
+  "events": [],
+  "lastUpdated": "2026-09-01T01:14:46.028Z"
+}
