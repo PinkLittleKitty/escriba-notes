@@ -622,7 +622,7 @@
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
-        "isActive": true
+        "isActive": false
       },
       {
         "id": "id-1787606982852-fma2qsgbo",
