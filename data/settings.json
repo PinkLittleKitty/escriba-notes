@@ -1,7 +1,7 @@
 {
-  "theme": "unq",
-  "fontFamily": "Inter",
-  "fontSize": 17,
+  "theme": "catppuccin",
+  "fontFamily": "Inter, sans-serif",
+  "fontSize": 16,
   "autoSave": true,
   "autoSync": true,
   "expandSubjects": true,
