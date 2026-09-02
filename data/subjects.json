@@ -618,7 +618,7 @@
         "title": "TP2 - UML",
         "content": "\n            <div class=\"uml-diagram-container\" contenteditable=\"false\" data-uml-code=\"classDiagram\n    Empresa &lt;--&quot;*&quot; Empleado\n    Empleado &lt;|-- EmpleadoTemporal\n    Empleado &lt;|-- EmpleadoPermanente\n    Empleado &lt;-- ReciboHaberes\n\n    class Empresa {\n        - nombre : String\n        - CUIT : String\n        - Empleados : List&lt;Empleado&gt;\n        - ldisciquidación() Void\n        - totalSueldosNetos() Int\n        - totalSueldosBrutos() Int\n        - totalRetenciones() Int\n    }\n    \n    class Empleado {\n        - nombre : String\n        - dirección : String\n        - estadoCivil : EstadoCivil\n        - fechaNac : Date\n        - sueldoBasico : Int\n        - recibos : List&lt;Recibo&gt;\n        - edad() : Int\n        - suedoBasico() Int\n        - sueldoBruto() Int\n        - retenciones() Int\n        - sueldoNeto() Int\n        - obraSocial() Int\n        - aportes() Int\n        - liquidacion() Int\n        - generarRecibo() ReciboHaberes\n        - desgloce() String\n    }\n    \n    class EmpleadoPermanente {\n        - cantHijos : Int\n        . antiguedad : Int\n        - sueldoBruto() Int\n        - bonoFamiliar() Int\n        - bonoAntiguedad() Int\n        - obraSocial() Int\n        - aportes() Int\n        - desgloce() String\n    }\n    \n    class EmpleadoTemporal {\n        - fechaDesignación : Date\n        - cantHorasExtra : Int\n        - sueldoBruto() Int\n        - obraSocial() Int\n        - viejoTax() Int\n        - aportes() Int\n        - desgloce() String\n    }\n    \n    class ReciboHaberes {\n        - nombreEmpleado : String\n        - dirección : String\n        - fechaEmisión : String\n        - sueldoBruto : String\n        - sueldoNeto : String\n        - desgloce : String\n    }\" data-diagram-type=\"class\">\n                <div class=\"uml-diagram-header\">\n                    <span class=\"uml-diagram-title uml-diagram-type\"><i class=\"fas fa-project-diagram\"></i> Diagrama de Clases</span>\n                    <div class=\"uml-diagram-actions\">\n                        <button class=\"uml-edit-btn\" title=\"Editar diagrama\"><i class=\"fas fa-edit\"></i></button>\n                        <button class=\"uml-delete-btn\" title=\"Eliminar diagrama\"><i class=\"fas fa-trash\"></i></button>\n                    </div>\n                </div>\n                <div id=\"uml-1787254843717-ukm6ea4tn\" class=\"uml-diagram-content\"><div class=\"uml-loading\"><i class=\"fas fa-spinner fa-spin\"></i> Generando...</div></div>\n            </div>\n            <p><br></p>",
         "createdAt": "2026-08-20T19:00:40.039Z",
-        "updatedAt": "2026-09-02T06:14:14.668Z",
+        "updatedAt": "2026-09-02T06:19:15.412Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -660,7 +660,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-09-02T06:14:14.668Z"
+    "lastModified": "2026-09-02T06:19:15.412Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
