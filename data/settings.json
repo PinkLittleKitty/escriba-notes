@@ -3,9 +3,9 @@
   "fontFamily": "Inter, sans-serif",
   "fontSize": 16,
   "autoSave": true,
-  "autoSync": true,
   "expandSubjects": true,
   "showWelcome": true,
   "storageMode": "github",
+  "autoSync": true,
   "customAccent": null
 }
