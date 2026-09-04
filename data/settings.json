@@ -1,6 +1,6 @@
 {
-  "theme": "dark",
-  "fontFamily": "Inter",
+  "theme": "catppuccin",
+  "fontFamily": "",
   "fontSize": 16,
   "autoSave": true,
   "expandSubjects": true,
