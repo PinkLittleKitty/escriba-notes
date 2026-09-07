@@ -75,5 +75,50 @@
     "description": "",
     "createdAt": "2026-06-13T20:13:08.081Z",
     "updatedAt": "2026-06-13T20:13:08.081Z"
+  },
+  {
+    "id": "evt-1788822034572-480nbfy",
+    "title": "Comienzo del TP Integrador",
+    "date": "2026-09-24",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "tarea",
+    "notes": ""
+  },
+  {
+    "id": "evt-1788822094227-mju4fov",
+    "title": "Parcial Integrador",
+    "date": "2026-11-09",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "final",
+    "notes": ""
+  },
+  {
+    "id": "evt-1788822163326-j6hwmwa",
+    "title": "Entrega del TP",
+    "date": "2026-11-19",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "tp",
+    "notes": ""
+  },
+  {
+    "id": "evt-1788822207771-uwqkrq6",
+    "title": "Pre-Entrega del TP Integrador",
+    "date": "2026-11-12",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "tp",
+    "notes": ""
+  },
+  {
+    "id": "evt-1788822341509-0wgcns0",
+    "title": "Recuperatorio Integrador",
+    "date": "2026-11-30",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "recuperatorio",
+    "notes": ""
   }
 ]
