@@ -193,7 +193,8 @@
         "day": 3,
         "time": "19:00"
       }
-    ]
+    ],
+    "icon": null
   },
   {
     "id": "1774150180716",
@@ -267,7 +268,8 @@
         "day": 6,
         "time": "10:00"
       }
-    ]
+    ],
+    "icon": null
   },
   {
     "id": "1755518439049",
@@ -523,7 +525,8 @@
     "expanded": false,
     "lastModified": "2026-06-14T02:25:01.824Z",
     "archived": true,
-    "schedule": []
+    "schedule": [],
+    "icon": null
   },
   {
     "id": "id-1775501873166-h0ivu3hx9",
@@ -593,7 +596,8 @@
         "day": 1,
         "time": "16:00"
       }
-    ]
+    ],
+    "icon": null
   },
   {
     "id": "id-1786320741317-lfk7l6sp5",
@@ -677,7 +681,8 @@
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
     "lastModified": "2026-09-07T23:36:56.788Z",
-    "icon": "git-branch"
+    "icon": "git-branch",
+    "updatedAt": "2026-09-07T23:36:56.788Z"
   },
   {
     "id": "id-1786320788253-qu5060idr",
