@@ -194,7 +194,8 @@
         "time": "19:00"
       }
     ],
-    "icon": null
+    "icon": null,
+    "updatedAt": "2026-09-01T03:24:16.021Z"
   },
   {
     "id": "1774150180716",
@@ -619,9 +620,9 @@
       {
         "id": "id-1786584819783-qbz0r5mei",
         "title": "TP1",
-        "content": "<div>1- Opción 2, con una sola esquina tenés el rectángulo entero.</div><div>2- Opción 2, encapsula mejor la tarea de cada uno, aunque no me convence que jefe tenga relación directa a secretario.</div><div>3- Opción 1: No es bueno comparar el nombre de clases en una alternativa condicional (Ni hacerlo así en primer lugar.)</div><div>Opción 2: No me gusta usar una comparación a string del tipo, y sigue sin ser polimórfico.</div><div>Opción 3: Ahora extraer es polimórfico, pero nos obliga a tener ifs adentro de los métodos.</div><div>Opción 4: Esta me gusta.</div><div>dasfasdasd</div>",
+        "content": "<div>1- Opción 2, con una sola esquina tenés el rectángulo entero.</div><div>2- Opción 2, encapsula mejor la tarea de cada uno, aunque no me convence que jefe tenga relación directa a secretario.</div><div>3- Opción 1: No es bueno comparar el nombre de clases en una alternativa condicional (Ni hacerlo así en primer lugar.)</div><div>Opción 2: No me gusta usar una comparación a string del tipo, y sigue sin ser polimórfico.</div><div>Opción 3: Ahora extraer es polimórfico, pero nos obliga a tener ifs adentro de los métodos.</div><div>Opción 4: Esta me gusta.</div>",
         "createdAt": "2026-08-13T01:33:39.783Z",
-        "updatedAt": "2026-09-02T21:29:57.542Z",
+        "updatedAt": "2026-09-23T16:09:08.838Z",
         "favorite": false,
         "type": "lecture",
         "language": "javascript",
@@ -669,6 +670,17 @@
         "tags": [],
         "createdAt": "2026-09-17T19:05:08.558Z",
         "updatedAt": "2026-09-17T19:13:04.082Z"
+      },
+      {
+        "id": "note-1790189891580-fdki9al",
+        "title": "Sub testttt",
+        "content": "testtttttículossssssss<p></p>",
+        "subjectId": "id-1786320741317-lfk7l6sp5",
+        "parentId": "id-1786584819783-qbz0r5mei",
+        "favorite": false,
+        "tags": [],
+        "createdAt": "2026-09-23T18:58:11.580Z",
+        "updatedAt": "2026-09-23T18:58:21.708Z"
       }
     ],
     "schedule": [
