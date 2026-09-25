@@ -1,0 +1,10 @@
+{
+  "id": "note-1789681265170-4z5lp4z",
+  "title": "17/9",
+  "content": "Crear y hacer un archivo ejecutable:<p></p><div><ol><li>nano nombredearchivo/touch nombredearchivo</li><li>chmod +x nombredearchivo</li><li>./nombredearchivo</li></ol><div><br></div></div><div>La Shell es un intérprete de terminal, es un programa, depende de la distribución, pero el más común es bash.</div><div>Para especificar qué interprete usar para un archivo específico, le añadimos arriba de todo #!/bin/bash.</div><div><br></div><div>Ahora, vamos a hacer un programa que:</div><div><ul><li>Recorre archivos de imágenes de la carpeta actual</li><ul><li>Por cada uno, lo achica.</li><li>Usando imagemagick, convert</li></ul></ul><div>Intentar reescribir el programa usando zenity para tener una interfaz gráfica, y que te promptee los parámetros.</div></div>",
+  "subjectId": "id-1786320788253-qu5060idr",
+  "favorite": false,
+  "tags": [],
+  "createdAt": "2026-09-17T21:41:05.170Z",
+  "updatedAt": "2026-09-17T23:55:19.676Z"
+}

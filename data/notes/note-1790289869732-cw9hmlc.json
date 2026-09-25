@@ -1,0 +1,11 @@
+{
+  "id": "note-1790289869732-cw9hmlc",
+  "title": "Redes",
+  "content": "La banda ancha es un servicio pensado de manera asimétrica, donde siempre la bajada es mayor que la subida.<p></p><div>Casi siempre, los servicios ofrecidos son en Mb (Megabits)</div><div><br></div><div>De tu casa, sale por algún tipo de cable a la infraestructura de tu proveedor, y de ahí a nodos de cabase, por ejemplo, donde se centralizan los datos, y se puede redirigir de algún modo. Desde esos nodos, hay cables que conectan con lugares remotos del mundo, la mayoría son cables submarinos, en el caso de argentina, hay 7, en las toninas.</div><div><br></div><div>Cuando se cinfigura un router, configurás las interfaces, el cómo se comunican con el exterior y entre sí.</div><div><br></div><div>Una cosa es la WAN, y otra cosa es la LAN, quien vea tu computadora en la WAN, usualmente las ve con la ip del router, pero es algo configurable.</div><div><br></div><div>Un servidor/servicio es un programa que implementa un protocolo, usualmente son cliente/servidor, cada uno es un programa diferente, y cada uno implementa ese mismo protocolo.</div><div><br></div><div>Programa que sirve para configurar cualquier cosa que tenga que ver con el protocolo ip en unix se llama ip.</div><div>lo: intefaz de red loopback, es reflexiva, es el cómo contacto a mi máquina a través del protocolo ip sin salir de mi máquina.</div>",
+  "subjectId": "id-1786320788253-qu5060idr",
+  "parentId": "note-1790285585297-id9nguw",
+  "favorite": false,
+  "tags": [],
+  "createdAt": "2026-09-24T22:44:29.732Z",
+  "updatedAt": "2026-09-24T23:43:29.918Z"
+}
