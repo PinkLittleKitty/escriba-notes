@@ -907,13 +907,13 @@
       {
         "id": "note-1792703791602-7tnru4k",
         "title": "22/10",
-        "content": "La forma para poder manejar de manera remota máquinas es SSH, aka Secure shell, es un servicio de red cliente-servidor, y es un protocolo.<p></p><div>Los permisos, y lo que podés hacer en la máquina son los mismos que estando físicamente en la máquina, todo lo que tenga que ver on el software, es lo que se usa para administrar todos los servicios que se usan.</div><div><br></div><div>Encriptación: El principio de la encriptación era un simple algoritmo de encriptacion, como lo es el desplazamiento de caracteres, por ejemplo -&gt; hola (+1 en el abecedario) -&gt; ipmb, con el tiempo se llegó a un sistema llamado public/private key, cada una de las personas que quiere recibir o mandar un mensaje tiene que tener un conjunto de claves publicas y privadas creadas, la clave privada se genera pero no se comparte, y la púb&nbsp;</div>",
+        "content": "La forma para poder manejar de manera remota máquinas es SSH, aka Secure shell, es un servicio de red cliente-servidor, y es un protocolo.<p></p><div>Los permisos, y lo que podés hacer en la máquina son los mismos que estando físicamente en la máquina, todo lo que tenga que ver on el software, es lo que se usa para administrar todos los servicios que se usan.</div><div><br></div><div><b>Encriptación</b>: El principio de la encriptación era un simple algoritmo de encriptacion, como lo es el desplazamiento de caracteres, por ejemplo -&gt; hola (+1 en el abecedario) -&gt; ipmb, con el tiempo se llegó a un sistema llamado public/private key, cada una de las personas que quiere recibir o mandar un mensaje tiene que tener un conjunto de claves publicas y privadas creadas, la clave privada se genera pero no se comparte, y la pública se genera para compartir, entre ellas hay una relación. El emisor aplica una función conocida usando la clave privada propia y la clave pública del receptor, cuando llega al receptor, lo que hace es desencriptarlo usando su clave privada, y la clave pública del emisor.</div>",
         "subjectId": "id-1786320788253-qu5060idr",
         "parentId": null,
         "favorite": false,
         "tags": [],
         "createdAt": "2026-10-22T21:16:31.602Z",
-        "updatedAt": "2026-10-22T21:33:56.375Z"
+        "updatedAt": "2026-10-22T21:36:24.219Z"
       }
     ],
     "schedule": [
@@ -928,7 +928,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-10-22T21:33:56.375Z",
+    "lastModified": "2026-10-22T21:36:24.219Z",
     "icon": "flask-conical",
     "updatedAt": "2026-09-03T23:02:01.048Z"
   }
