@@ -1,6 +1,6 @@
 {
   "theme": "catppuccin-mocha",
-  "fontFamily": "",
+  "fontFamily": "Inter, sans-serif",
   "fontSize": 16,
   "autoSave": true,
   "expandSubjects": true,
