@@ -929,13 +929,13 @@
       {
         "id": "note-1793308966309-pjl6lsb",
         "title": "29/10",
-        "content": "Telnet es un cliente básico. Tirando en la consola <code style=\"background: var(--bg-tertiary); padding: 0.15rem 0.35rem; border-radius: 4px; font-family: var(--font-mono); font-size: 0.85em; color: var(--accent-blue);\">telnet localhost 80</code>, podemos usar nosotros mismos el protocolo HTTP, por lo que podemos mandar, por ejemplo, <code style=\"background: var(--bg-tertiary); padding: 0.15rem 0.35rem; border-radius: 4px; font-family: var(--font-mono); font-size: 0.85em; color: var(--accent-blue);\">GET /</code>, lo cual significa \"Flaco, dame el archivo que tengas en la raíz según el protocolo HTTP.\"<div><br></div><div>El servidor no tiene nada que ver con los datos que vemos. Lo que vemos en la ventana del navegador es lo que nos mandó el servidor, el cliente es un intérprete del contenido que nos enviaron.</div>",
+        "content": "Telnet es un cliente básico. Tirando en la consola <code style=\"background: var(--bg-tertiary); padding: 0.15rem 0.35rem; border-radius: 4px; font-family: var(--font-mono); font-size: 0.85em; color: var(--accent-blue);\">telnet localhost 80</code>, podemos usar nosotros mismos el protocolo HTTP, por lo que podemos mandar, por ejemplo, <code style=\"background: var(--bg-tertiary); padding: 0.15rem 0.35rem; border-radius: 4px; font-family: var(--font-mono); font-size: 0.85em; color: var(--accent-blue);\">GET /</code>, lo cual significa \"Flaco, dame el archivo que tengas en la raíz según el protocolo HTTP.\"<div><br></div><div>El servidor no tiene nada que ver con los datos que vemos. Lo que vemos en la ventana del navegador es lo que nos mandó el servidor, el cliente es un intérprete del contenido que nos enviaron.</div><div><br></div><div>Cada navegador tiene su propia implementación de HTML, y de diferentes tecnologías usadas en la web. Una página interesante es caniuse.com, muestra qué tecnologías están en cada navegador.</div>",
         "subjectId": "id-1786320788253-qu5060idr",
         "parentId": null,
         "favorite": false,
         "tags": [],
         "createdAt": "2026-10-29T21:22:46.309Z",
-        "updatedAt": "2026-10-29T21:57:17.022Z"
+        "updatedAt": "2026-10-29T22:55:48.481Z"
       }
     ],
     "schedule": [
@@ -950,7 +950,7 @@
     "archived": false,
     "expanded": false,
     "createdAt": "2026-08-10T00:13:08.253Z",
-    "lastModified": "2026-10-29T21:57:17.022Z",
+    "lastModified": "2026-10-29T22:55:48.481Z",
     "icon": "flask-conical",
     "updatedAt": "2026-09-03T23:02:01.048Z"
   }
