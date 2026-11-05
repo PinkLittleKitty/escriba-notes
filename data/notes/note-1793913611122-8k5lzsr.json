@@ -1,11 +1,11 @@
 {
   "id": "note-1793913611122-8k5lzsr",
   "title": "5/11",
-  "content": "MySQL aparece cerca de la creación de PHP, fue pensado para hacer únicamente las cosas que se necesitaban en la web, esto significa que lo, por ejemplo, se usaba para identificar unívocamente a cada usuario, ideado para ser rápido en cosas específicas, pero sólo en eso, no tenía la mayotía de cosas que tiene un motor de base de datos relacional. Tanto PHP como MySQL son de software libre, lo cual los posicionó para ser de las más usadas.<p></p>",
+  "content": "MySQL aparece cerca de la creación de PHP, fue pensado para hacer únicamente las cosas que se necesitaban en la web, esto significa que lo, por ejemplo, se usaba para identificar unívocamente a cada usuario, ideado para ser rápido en cosas específicas, pero sólo en eso, no tenía la mayotía de cosas que tiene un motor de base de datos relacional. Tanto PHP como MySQL son de software libre, lo cual los posicionó para ser de las más usadas.-<p></p>",
   "subjectId": "id-1786320788253-qu5060idr",
   "parentId": null,
   "favorite": false,
   "tags": [],
   "createdAt": "2026-11-05T21:20:11.122Z",
-  "updatedAt": "2026-11-05T21:41:40.226Z"
+  "updatedAt": "2026-11-05T21:58:28.052Z"
 }
