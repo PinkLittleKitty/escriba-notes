@@ -1,11 +1,11 @@
 {
   "id": "note-1793913611122-8k5lzsr",
   "title": "5/11",
-  "content": "MySQL aparece cerca de la creación de PHP, fue pensado para hacer únicamente las cosas que se necesitaban en la web, esto significa que lo, por ejemplo, se usaba para identificar unívocamente a cada usuario, ideado para ser rápido en cosas específicas, pero sólo en eso, no tenía la mayotía de cosas que tiene un motor de base de datos relacional. Tanto PHP como MySQL son de software libre, lo cual los posicionó para ser de las más usadas.<p></p><div><br></div><div>La mayoría, si no todas, las librerías de PHP están escritas en C, porque es más performante, y algunas hacen funciones de PHP que renombran funciones de C que ya hacen eso.</div>",
+  "content": "MySQL aparece cerca de la creación de PHP, fue pensado para hacer únicamente las cosas que se necesitaban en la web, esto significa que lo, por ejemplo, se usaba para identificar unívocamente a cada usuario, ideado para ser rápido en cosas específicas, pero sólo en eso, no tenía la mayotía de cosas que tiene un motor de base de datos relacional. Tanto PHP como MySQL son de software libre, lo cual los posicionó para ser de las más usadas.<p></p><div><br></div><div>La mayoría, si no todas, las librerías de PHP están escritas en C, porque es más performante, y algunas hacen funciones de PHP que renombran funciones de C que ya hacen eso.</div><div><br></div><div>El programa web más instalado, desde hace como 30 años es wordpress.</div>",
   "subjectId": "id-1786320788253-qu5060idr",
   "parentId": null,
   "favorite": false,
   "tags": [],
   "createdAt": "2026-11-05T21:20:11.122Z",
-  "updatedAt": "2026-11-05T23:01:22.551Z"
+  "updatedAt": "2026-11-05T23:42:33.739Z"
 }
