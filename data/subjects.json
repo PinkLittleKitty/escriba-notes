@@ -829,6 +829,17 @@
         "tags": [],
         "createdAt": "2026-11-02T21:40:24.784Z",
         "updatedAt": "2026-11-03T00:01:04.814Z"
+      },
+      {
+        "id": "note-1794614634129-bnddiyz",
+        "title": "Teoria - Parcial",
+        "content": "SOLID:<div></div><div><ol><li>S</li></ol></div>",
+        "subjectId": "id-1786320741317-lfk7l6sp5",
+        "parentId": null,
+        "favorite": false,
+        "tags": [],
+        "createdAt": "2026-11-14T00:03:54.129Z",
+        "updatedAt": "2026-11-14T00:04:26.325Z"
       }
     ],
     "schedule": [
@@ -850,7 +861,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-11-03T00:01:04.814Z",
+    "lastModified": "2026-11-14T00:04:26.325Z",
     "icon": "git-branch",
     "updatedAt": "2026-09-07T23:36:56.788Z"
   },
