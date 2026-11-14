@@ -1,11 +1,11 @@
 {
   "id": "note-1794614634129-bnddiyz",
   "title": "Teoria - Parcial",
-  "content": "SOLID:<div></div><div><ol><li>Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Regla:&nbsp;</li></ul></ul></div></div>",
+  "content": "SOLID:<div></div><div><ol><li>Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Definición: Una clase tiene que tener una, y sólo una razón para cambiar</li></ul></ul></div></div>",
   "subjectId": "id-1786320741317-lfk7l6sp5",
   "parentId": null,
   "favorite": false,
   "tags": [],
   "createdAt": "2026-11-14T00:03:54.129Z",
-  "updatedAt": "2026-11-14T00:05:05.538Z"
+  "updatedAt": "2026-11-14T00:06:36.136Z"
 }
