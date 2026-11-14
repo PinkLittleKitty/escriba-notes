@@ -1,11 +1,11 @@
 {
   "id": "note-1794614634129-bnddiyz",
   "title": "Teoria - Parcial",
-  "content": "SOLID:<div></div><div><ol><li>S - Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Definición: Una clase tiene que tener una, y sólo una razón para cambiar (Es decir, una única responsabilidad cohesiva).</li><li>Code smell: Una \"God Class\" que mezcla lógica.</li><li>¿Cómo se resuelve?</li><ul><li>Se delega cada responsabilidad a colaboradores.</li><li>Cita de gamma: \"Optar por la composición de objetos frente a la herencia de clases ayuda a mantener cada clase encapsulada y centrada en una sola tarea.\"</li></ul></ul></ul>2. O - Open/Closed Principle (OCP)</div></div><div><ul><ul><li>Definición: Las entidades de software (clases, módulos, métodos) deben estar abiertas para su extensión</li></ul></ul></div>",
+  "content": "SOLID:<div></div><div><ol><li>S - Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Definición: Una clase tiene que tener una, y sólo una razón para cambiar (Es decir, una única responsabilidad cohesiva).</li><li>Code smell: Una \"God Class\" que mezcla lógica.</li><li>¿Cómo se resuelve?</li><ul><li>Se delega cada responsabilidad a colaboradores.</li><li>Cita de gamma: \"Optar por la composición de objetos frente a la herencia de clases ayuda a mantener cada clase encapsulada y centrada en una sola tarea.\"</li></ul></ul></ul>2. O - Open/Closed Principle (OCP)</div></div><div><ul><ul><li>Definición: Las entidades de software (clases, módulos, métodos) deben estar abiertas para su extensión, pero cerradas para su modificación. Se debe poder agregar nuevo comportamiento sin editar código existente.</li><li>Code smell: Cadenas largas de if/else if o switch preguntando por un tipo o modo. Cada vez que surge un caso nuevo, ha</li></ul></ul></div>",
   "subjectId": "id-1786320741317-lfk7l6sp5",
   "parentId": null,
   "favorite": false,
   "tags": [],
   "createdAt": "2026-11-14T00:03:54.129Z",
-  "updatedAt": "2026-11-14T00:10:26.719Z"
+  "updatedAt": "2026-11-14T00:11:44.918Z"
 }
