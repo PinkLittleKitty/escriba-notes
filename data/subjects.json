@@ -833,13 +833,13 @@
       {
         "id": "note-1794614634129-bnddiyz",
         "title": "Teoria - Parcial",
-        "content": "SOLID:<div></div><div><ol><li>Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Definición: Una clase tiene que tener una, y sólo una razón para cambiar</li></ul></ul></div></div>",
+        "content": "SOLID:<div></div><div><ol><li>Single Responsibility Principle (SRP)</li></ol><div><ul><ul><li>Definición: Una clase tiene que tener una, y sólo una razón para cambiar (Es decir, una única responsabilidad cohesiva).</li><li>Code smell:&nbsp;</li></ul></ul></div></div>",
         "subjectId": "id-1786320741317-lfk7l6sp5",
         "parentId": null,
         "favorite": false,
         "tags": [],
         "createdAt": "2026-11-14T00:03:54.129Z",
-        "updatedAt": "2026-11-14T00:06:36.136Z"
+        "updatedAt": "2026-11-14T00:07:04.779Z"
       }
     ],
     "schedule": [
@@ -861,7 +861,7 @@
     "archived": false,
     "expanded": true,
     "createdAt": "2026-08-10T00:12:21.317Z",
-    "lastModified": "2026-11-14T00:06:36.136Z",
+    "lastModified": "2026-11-14T00:07:04.779Z",
     "icon": "git-branch",
     "updatedAt": "2026-09-07T23:36:56.788Z"
   },
