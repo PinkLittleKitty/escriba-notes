@@ -120,5 +120,41 @@
     "subjectId": "id-1786320741317-lfk7l6sp5",
     "type": "recuperatorio",
     "notes": ""
+  },
+  {
+    "id": "evt-1794776143711-qq1htlr",
+    "title": "Parcial",
+    "date": "2026-11-16",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "parcial",
+    "notes": ""
+  },
+  {
+    "id": "evt-1794776182828-xh8bhy6",
+    "title": "Defensa Tp integrador",
+    "date": "2026-11-19",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "otro",
+    "notes": ""
+  },
+  {
+    "id": "evt-1794776233851-vtfg3i1",
+    "title": "Reentrega TP",
+    "date": "2026-12-01",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "recuperatorio",
+    "notes": ""
+  },
+  {
+    "id": "evt-1794776247364-ihgtew5",
+    "title": "Segunda defensa TP",
+    "date": "2026-12-03",
+    "time": "",
+    "subjectId": "id-1786320741317-lfk7l6sp5",
+    "type": "recuperatorio",
+    "notes": ""
   }
 ]
